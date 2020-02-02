@@ -1,0 +1,24 @@
+name: External Links Validator
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 12 * * *'
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    - name: Check links
+      uses: peter-evans/link-checker@v1
+      with:
+        args: -v -r *
+    - name: Create an issue if needed
+      uses: peter-evans/create-issue-from-file@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        title: Link Checker Report
+        content-filepath: ./link-checker/out.md
+        labels: report, automated issue
