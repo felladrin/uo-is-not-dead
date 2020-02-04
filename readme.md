@@ -13,6 +13,7 @@
 | [Arcanum](http://letmegooglethat.com/?q=Arcanum+Ultima+Online+PvP+Server) |          :tr:          |
 | [Art Land](http://art.sytes.net/)                                         |          :ru:          |
 | [Cataclysm](http://www.cataclysmuo.com/)                                  |          :gb:          |
+| [ChaosAge](https://chaosage.com.br/)                                      |        :brazil:        |
 | [Clair’s Lair](http://www.uo-cl.com/)                                     |        :poland:        |
 | [Dark Crusaders](http://www.darkcrusaders-uo.webs.com/)                   |          :gb:          |
 | [Dooms Day Returns](http://doomsdayreturns.webs.com/)                     |          :gb:          |
@@ -23,6 +24,7 @@
 | [Excelsior](http://www.uoex.net/)                                         |          :gb:          |
 | [Glorious UO](http://www.gloriousuo.com/)                                 |          :gb:          |
 | [Heaven’s Wrath](http://grheavenswrath.webs.com/)                         |          :gb:          |
+| [HellFire Evolution](http://www.hfshard.com.br/)                          |        :brazil:        |
 | [In Danger of Collapsing](http://www.mondains.com/)                       |          :gb:          |
 | [Lindrett](http://lindrett.ru/)                                           |          :ru:          |
 | [Lost City](http://www.lostcityshard.com/)                                |          :gb:          |
@@ -40,6 +42,7 @@
 | [PvP Lost](http://pvp-lost.ru/)                                           |          :ru:          |
 | [RealWorld](http://www.realworld.su/)                                     |          :ru:          |
 | [Revolution UO](http://www.revolutionuo.net/)                             |          :tr:          |
+| [Shivers](http://www.shiversshard.com.br/)                                |        :brazil:        |
 | [Six Feet Under](http://www.sixfeetundershard.webs.com/)                  |          :gb:          |
 | [Skyrim](http://www.myuo.info/)                                           |          :cn:          |
 | [Solaris](http://www.pregnasoft.com/solaris/)                             |          :it:          |
