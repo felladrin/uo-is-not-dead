@@ -46,7 +46,6 @@
 | [Sylvan Heart](http://www.sylvandreams.co.uk/)                            |          :gb:          |
 | [Teiravon](http://www.teiravon3.com/)                                     |          :gb:          |
 | [The Miracle](http://www.themiracleshard.com/)                            |          :it:          |
-| [UO Forever](http://www.uoforever.com/)                                   |          :gb:          |
 | [UnrealUO](http://uo.unreal.us/)                                          |          :gb:          |
 | [UO Antares](http://bestuo.ru/)                                           |          :ru:          |
 | [UO Clone](http://www.uoclone.pl/)                                        |        :poland:        |
@@ -54,6 +53,8 @@
 | [UO Eternal Vengence](http://uoevhome.webs.com/)                          |          :gb:          |
 | [UO Evolution](http://www.uoevolution.com/)                               |          :gb:          |
 | [UO Expanse](http://www.uoexpanse.com/)                                   |          :gb:          |
+| [UO Forever](http://www.uoforever.com/)                                   |          :gb:          |
+| [UO Hybrid](http://www.uohybrid.com/)                                     |          :gb:          |
 | [UO Playground](http://uoplayground.weebly.com/)                          |          :gb:          |
 | [UO Redemption](http://www.uoredemption.com/)                             |          :gb:          |
 | [UO Renaissance](http://www.uorenaissance.com/)                           |          :gb:          |
@@ -64,7 +65,6 @@
 | [UO Soul](http://ultima-online.at.ua/)                                    |          :ru:          |
 | [UO Traditions](http://www.uotraditions.com/)                             |          :gb:          |
 | [UO White Wolf](http://www.uowhitewolf.com/)                              |          :gb:          |
-| [UO Hybrid](http://www.uohybrid.com/)                                     |          :gb:          |
 | [UoGames](http://uogames.ru/)                                             |          :ru:          |
 | [UOItalia Reborn](https://www.uoitalia.net/en/)                           |       :gb: :it:        |
 | [UOKR The Abyss](http://runuo.theabyss.ru/)                               |          :ru:          |
