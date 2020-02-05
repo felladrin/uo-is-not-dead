@@ -95,7 +95,7 @@
 | [UO Traditions](http://www.uotraditions.com/)                             |          :gb:          |
 | [UO White Wolf](http://www.uowhitewolf.com/)                              |          :gb:          |
 | [UOG Demise](https://www.uogdemise.com)                                   |          :gb:          |
-| [UoGames](http://uogames.ru/)                                             |          :ru:          |
+| [UoGames](https://uogames.ru/)                                            |          :ru:          |
 | [UOItalia Reborn](https://www.uoitalia.net/en/)                           |       :gb: :it:        |
 | [UORPG](http://en.uorpg.net/)                                             |       :gb: :ru:        |
 | [Utopia Unchained](http://uounchained.ru)                                 |          :ru:          |
