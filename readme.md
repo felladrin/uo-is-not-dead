@@ -121,7 +121,6 @@
 | [Whispering Pines](http://wpshard.com/)                                   |          :gb:          |
 | [White Tiger](https://white-tiger.rpg-board.net)                          |          :gb:          |
 | [Wolvesbane UO](https://wolvesbaneuo.com)                                 |          :gb:          |
-| [World of Dread](http://www.worldofdread.com/)                            |       :gb: :es:        |
 | [World of UO](http://www.worldofuo.com/)                                  |          :tr:          |
 | [Zenvera](https://zenvera.com/)                                           |          :gb:          |
 | [Zulu Hotel Italia](https://www.zhi.it/)                                  |          :it:          |
