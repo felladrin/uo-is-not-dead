@@ -33,7 +33,7 @@
 | [Karma UO](https://karmauo.com)                                           |          :gb:          |
 | [Legacy UO](http://legacy-uo.com/)                                        |          :gb:          |
 | [Legends of Sosaria](https://www.legendsofsosaria.com)                    |          :gb:          |
-| [Lindrett](http://lindrett.ru/)                                           |          :ru:          |
+| [Lindrett](https://lindrett.ru/)                                          |          :ru:          |
 | [Lost City](http://www.lostcityshard.com/)                                |          :gb:          |
 | [Magna Periculum](http://magnapericulum.com)                              |          :gb:          |
 | [Mahaon Land](http://mahaon.land/)                                        |          :ru:          |
@@ -98,7 +98,7 @@
 | [UO Roleplay](http://www.uoroleplay.com/)                                 |          :gb:          |
 | [UO Satura](http://uo-satura.com)                                         |          :de:          |
 | [UO Second Age](http://www.uosecondage.com/)                              |          :gb:          |
-| [UO Sigena](http://www.uosigena.de/)                                      |          :de:          |
+| [UO Sigena](http://www.uosigena.de/home/index.php)                        |          :de:          |
 | [UO Soul](http://ultima-online.at.ua/)                                    |          :ru:          |
 | [UO Stones](https://uostones.ucoz.net)                                    |          :gb:          |
 | [UO Succession](https://www.uosuccession.com)                             |          :gb:          |
@@ -114,7 +114,7 @@
 | [Utopia Unchained](http://uounchained.ru)                                 |          :ru:          |
 | [Valhalla Lost](http://valhallalost.com/)                                 |          :gb:          |
 | [Vesper Tales](http://www.vespertales.de/)                                |          :de:          |
-| [Vetus Mundus](http://www.vetus-mundus.de/)                               |       :gb: :de:        |
+| [Vetus Mundus](https://vetus-mundus.de/)                                  |       :gb: :de:        |
 | [Wakened Online](http://www.wakened.net/)                                 |          :gb:          |
 | [WatchTower](http://uowaw.com)                                            |          :gb:          |
 | [Wendelwelt](http://www.wendelwelt.net/features.php)                      |          :de:          |
