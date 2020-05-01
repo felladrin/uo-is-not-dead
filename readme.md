@@ -28,7 +28,6 @@
 | [Grimm's World](https://jdgeorge2014.wixsite.com/grimmsworld)             |          :gb:          |
 | [Heaven’s Wrath](http://grheavenswrath.webs.com/)                         |          :gb:          |
 | [HellFire Evolution](http://www.hfshard.com.br/)                          |        :brazil:        |
-| [Heretic UO](http://www.hereticuo.com)                                    |          :gb:          |
 | [In Danger of Collapsing](http://www.mondains.com/)                       |          :gb:          |
 | [Karma UO](https://karmauo.com)                                           |          :gb:          |
 | [Legacy UO](http://legacy-uo.com/)                                        |          :gb:          |
