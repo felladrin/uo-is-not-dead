@@ -10,7 +10,7 @@
 | [Alasiya](http://uo.alasiya.net/)                                         |          :gb:          |
 | [Alathair](http://www.alathair.de/)                                       |          :de:          |
 | [Alexandria](http://www.easyuo.com/forum/viewforum.php?f=42)              |          :gb:          |
-| [Arcanum](http://letmegooglethat.com/?q=Arcanum+Ultima+Online+PvP+Server) |          :tr:          |
+| [Arcanum](https://duckduckgo.com/?q=arcanum.gen.tr)                       |          :tr:          |
 | [Art Land](http://art.sytes.net/)                                         |          :ru:          |
 | [Cataclysm](http://www.cataclysmuo.com/)                                  |          :gb:          |
 | [ChaosAge](https://chaosage.com.br/)                                      |        :brazil:        |
@@ -40,7 +40,7 @@
 | [Mystical Unicorn](https://mu2ndcoming.wixsite.com/mysticalunicorn)       |          :gb:          |
 | [Nebula](http://www.nebula.web.tr/)                                       |          :tr:          |
 | [Nelderim](http://www.nelderim.org/)                                      |        :poland:        |
-| [Neverlands Phoenix](http://www.neverlandsphoenix.org/)                   |          :gb:          |
+| [Neverlands Phoenix](https://duckduckgo.com/?q=neverlandsphoenix.org)     |          :gb:          |
 | [NoTramAos](http://notramaos.com)                                         |          :gb:          |
 | [Oblivion](http://oblivionshard.wikidot.com/)                             |          :gb:          |
 | [Obsidian](http://dxgaming.com/obsidian/status.php)                       |          :gb:          |
@@ -61,7 +61,7 @@
 | [Solaris](http://www.pregnasoft.com/solaris/)                             |          :it:          |
 | [Stygian Lapis](https://w.atwiki.jp/stygianlapis/)                        |          :jp:          |
 | [Survival UO](http://survivaluo.com)                                      |          :gb:          |
-| [Sylvan Heart](http://www.sylvandreams.co.uk/)                            |          :gb:          |
+| [Sylvan Heart](https://duckduckgo.com/?q=sylvandreams.co.uk)              |          :gb:          |
 | [T2A Resurrection](http://www.t2aresurrection.com)                        |          :gb:          |
 | [Teiravon](http://www.teiravon3.com/)                                     |          :gb:          |
 | [The Abyss UO](http://uo.theabyss.ru/)                                    |          :ru:          |
@@ -106,7 +106,7 @@
 | [UO White Wolf](http://www.uowhitewolf.com/)                              |          :gb:          |
 | [UOG Demise](https://www.uogdemise.com)                                   |          :gb:          |
 | [UoGames](https://uogames.ru/)                                            |          :ru:          |
-| [UOHeroQuest](http://uoheroquest.com)                                     |          :gb:          |
+| [UOHeroQuest](https://duckduckgo.com/?q=uoheroquest.com)                  |          :gb:          |
 | [UOItalia Reborn](https://www.uoitalia.net/en/)                           |       :gb: :it:        |
 | [UONostalgia](http://www.uonostalgia.com)                                 |          :gb:          |
 | [UORPG](http://en.uorpg.net/)                                             |       :gb: :ru:        |
