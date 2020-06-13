@@ -24,7 +24,6 @@
 | [Endor](http://www.endor.cz/)                                         |    :czech_republic:    |
 | [EnigmaUO: First Dawn](http://www.enigmauo.com/)                      |          :gb:          |
 | [Eternal Pledge](http://eternalpledgeuo.webs.com/)                    |          :gb:          |
-| [Evaluate](http://eva.gen.tr/)                                        |          :tr:          |
 | [Excelsior](http://www.uoex.net/)                                     |          :gb:          |
 | [Faerun's Legends](http://faerunslegends.net)                         |          :it:          |
 | [Glorious UO](http://www.gloriousuo.com/)                             |          :gb:          |
