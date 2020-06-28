@@ -107,7 +107,6 @@
 | [UO Succession](https://www.uosuccession.com)                         |          :gb:          |
 | [UO Supremacy](http://www.uosupremacy.it)                             |          :it:          |
 | [UO Traditions](http://www.uotraditions.com/)                         |          :gb:          |
-| [UO White Wolf](http://www.uowhitewolf.com/)                          |          :gb:          |
 | [UOG Demise](https://www.uogdemise.com)                               |          :gb:          |
 | [UoGames](https://uogames.ru/)                                        |          :ru:          |
 | [UOHeroQuest](https://duckduckgo.com/?q=uoheroquest.com)              |          :gb:          |
