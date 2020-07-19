@@ -62,7 +62,6 @@
 | [Skyrim](http://www.myuo.info/)                                       |          :cn:          |
 | [Solaris](http://www.pregnasoft.com/solaris/)                         |          :it:          |
 | [Stygian Lapis](https://w.atwiki.jp/stygianlapis/)                    |          :jp:          |
-| [Survival UO](http://survivaluo.com)                                  |          :gb:          |
 | [Sylvan Heart](https://duckduckgo.com/?q=sylvandreams.co.uk)          |          :gb:          |
 | [T2A Resurrection](http://www.t2aresurrection.com)                    |          :gb:          |
 | [Teiravon](http://www.teiravon3.com/)                                 |          :gb:          |
@@ -118,7 +117,6 @@
 | [Vesper Tales](http://www.vespertales.de/)                            |          :de:          |
 | [Vetus Mundus](https://vetus-mundus.de/)                              |       :gb: :de:        |
 | [Wakened Online](http://www.wakened.net/)                             |          :gb:          |
-| [WatchTower](http://uowaw.com)                                        |          :gb:          |
 | [Wendelwelt](http://www.wendelwelt.net/features.php)                  |          :de:          |
 | [Whispering Pines](http://wpshard.com/)                               |          :gb:          |
 | [White Tiger](https://white-tiger.rpg-board.net)                      |          :gb:          |
