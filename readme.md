@@ -93,7 +93,6 @@
 | [UO Outlands](https://uooutlands.com)                                 |          :gb:          |
 | [UO Playground](http://uoplayground.weebly.com/)                      |          :gb:          |
 | [UO Redemption](http://uoredemption.com)                              |          :gb:          |
-| [UO Redemption](http://www.uoredemption.com/)                         |          :gb:          |
 | [UO Renaissance](http://www.uorenaissance.com/)                       |          :gb:          |
 | [UO Revealed](http://uorevealed.com/)                                 |          :gb:          |
 | [UO Roleplay](http://www.uoroleplay.com/)                             |          :gb:          |
