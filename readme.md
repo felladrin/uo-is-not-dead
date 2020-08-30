@@ -58,7 +58,6 @@
 | [Relive UO](https://reliveuo.com)                                     |          :gb:          |
 | [Revolution UO](http://www.revolutionuo.net/)                         |          :tr:          |
 | [Shivers](http://www.shiversshard.com.br/)                            |        :brazil:        |
-| [Six Feet Under](http://www.sixfeetundershard.webs.com/)              |          :gb:          |
 | [Skyrim](http://www.myuo.info/)                                       |          :cn:          |
 | [Solaris](http://www.pregnasoft.com/solaris/)                         |          :it:          |
 | [Stygian Lapis](https://w.atwiki.jp/stygianlapis/)                    |          :jp:          |
