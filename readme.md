@@ -88,7 +88,6 @@
 | [UO Heritage: TrueUO](https://trueuo.com/)                            |          :gb:          |
 | [UO Hybrid](http://www.uohybrid.com/)                                 |          :gb:          |
 | [UO Lost Lands](https://uolostlands.com)                              |          :gb:          |
-| [UO Moons](http://www.uomoons.com)                                    |          :gb:          |
 | [UO Outlands](https://uooutlands.com)                                 |          :gb:          |
 | [UO Playground](http://uoplayground.weebly.com/)                      |          :gb:          |
 | [UO Redemption](http://uoredemption.com)                              |          :gb:          |
