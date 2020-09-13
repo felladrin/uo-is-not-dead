@@ -17,7 +17,6 @@
 | [Dark Crusaders](http://www.darkcrusaders-uo.webs.com/)               |          :gb:          |
 | [Darkness Once Forsaken](http://darkness-once-forsaken.com)           |          :gb:          |
 | [Dawn of New Age](https://dawnofanewage.it)                           |          :it:          |
-| [Demons And Wizards 8th Age](https://www.8thage.com)                  |          :it:          |
 | [Doom's Day Returns](https://doomsdayreturns.webs.com)                |          :gb:          |
 | [Dragon World](http://www.drw.ru/en/)                                 |       :gb: :ru:        |
 | [ElderUltima](http://play.elderultima.com)                            |          :gb:          |
