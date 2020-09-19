@@ -30,7 +30,7 @@
 | [Heaven’s Wrath](http://grheavenswrath.webs.com/)                     |          :gb:          |
 | [HellFire Evolution](http://www.hfshard.com.br/)                      |        :brazil:        |
 | [In Danger of Collapsing](http://www.mondains.com/)                   |          :gb:          |
-| [Karma UO](https://karmauo.com)                                       |          :gb:          |
+| [Karma UO](https://duckduckgo.com/?q=karmauo.com)                     |          :gb:          |
 | [Legacy UO](http://legacy-uo.com/)                                    |          :gb:          |
 | [Legends of Sosaria](https://www.legendsofsosaria.com)                |          :gb:          |
 | [Lindrett](https://lindrett.ru/)                                      |          :ru:          |
