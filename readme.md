@@ -99,7 +99,6 @@
 | [UO Soul](http://ultima-online.at.ua/)                                |          :ru:          |
 | [UO Stones](https://uostones.ucoz.net)                                |          :gb:          |
 | [UO Succession](https://www.uosuccession.com)                         |          :gb:          |
-| [UO Supremacy](http://www.uosupremacy.it)                             |          :it:          |
 | [UO Traditions](http://www.uotraditions.com/)                         |          :gb:          |
 | [UOG Demise](https://www.uogdemise.com)                               |          :gb:          |
 | [UoGames](https://uogames.ru/)                                        |          :ru:          |
