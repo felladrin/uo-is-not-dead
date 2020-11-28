@@ -108,4 +108,3 @@
 | [Zenvera](https://zenvera.com/)                                       |          :gb:          |
 | [Zulu Hotel Italia](https://www.zhi.it/)                              |          :it:          |
 | [ZuluHotel UA](http://zuluhotel.net.ua/)                              |          :ru:          |
-| [ZuluHotel](http://zuluhotel.net/)                                    |          :ru:          |
