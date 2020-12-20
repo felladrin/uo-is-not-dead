@@ -18,7 +18,6 @@
 | [Dawn of New Age](https://dawnofanewage.it)                           |          :it:          |
 | [Doom's Day Returns](https://doomsdayreturns.webs.com)                |          :gb:          |
 | [Dragon World](http://www.drw.ru/en/)                                 |       :gb: :ru:        |
-| [ElderUltima](http://play.elderultima.com)                            |          :gb:          |
 | [Endor](http://www.endor.cz/)                                         |    :czech_republic:    |
 | [EnigmaUO: First Dawn](http://www.enigmauo.com/)                      |          :gb:          |
 | [Eternal Pledge](http://eternalpledgeuo.webs.com/)                    |          :gb:          |
@@ -81,7 +80,7 @@
 | [UO Lost Lands](https://uolostlands.com)                              |          :gb:          |
 | [UO Outlands](https://uooutlands.com)                                 |          :gb:          |
 | [UO Playground](http://uoplayground.weebly.com/)                      |          :gb:          |
-| [UO Redemption](http://uoredemption.com)                              |          :gb:          |
+| [UO Redemption](https://duckduckgo.com/?q=uoredemption.com)           |          :gb:          |
 | [UO Renaissance](http://www.uorenaissance.com/)                       |          :gb:          |
 | [UO Revealed](http://uorevealed.com/)                                 |          :gb:          |
 | [UO Roleplay](http://www.uoroleplay.com/)                             |          :gb:          |
