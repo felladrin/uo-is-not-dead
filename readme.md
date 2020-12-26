@@ -19,7 +19,6 @@
 | [Doom's Day Returns](https://doomsdayreturns.webs.com)                |          :gb:          |
 | [Dragon World](http://www.drw.ru/en/)                                 |       :gb: :ru:        |
 | [Endor](http://www.endor.cz/)                                         |    :czech_republic:    |
-| [EnigmaUO: First Dawn](http://www.enigmauo.com/)                      |          :gb:          |
 | [Eternal Pledge](http://eternalpledgeuo.webs.com/)                    |          :gb:          |
 | [Excelsior](http://www.uoex.net/)                                     |          :gb:          |
 | [Faerun's Legends](http://faerunslegends.net)                         |          :it:          |
