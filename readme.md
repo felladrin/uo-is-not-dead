@@ -51,8 +51,7 @@
 | [RealWorld](http://www.realworld.su/)                                 |          :ru:          |
 | [Relive UO](https://reliveuo.com)                                     |          :gb:          |
 | [Revolution UO](http://www.revolutionuo.net/)                         |          :tr:          |
-| [Shivers](http://www.shiversshard.com.br/)                            |        :brazil:        |
-| [Skyrim](https://www.myuo.info/)                                       |          :cn:          |
+| [Skyrim](https://www.myuo.info/)                                      |          :cn:          |
 | [Stygian Lapis](https://w.atwiki.jp/stygianlapis/)                    |          :jp:          |
 | [Sylvan Heart](https://duckduckgo.com/?q=sylvandreams.co.uk)          |          :gb:          |
 | [T2A Resurrection](http://www.t2aresurrection.com)                    |          :gb:          |
