@@ -49,7 +49,6 @@
 | [Quingis](https://www.quingis.com/?lang=en)                           |       :gb: :tr:        |
 | [Raven Moon](https://uoravenmoon.wixsite.com/website)                 |          :gb:          |
 | [RealWorld](http://www.realworld.su/)                                 |          :ru:          |
-| [Relive UO](https://reliveuo.com)                                     |          :gb:          |
 | [Revolution UO](http://www.revolutionuo.net/)                         |          :tr:          |
 | [Skyrim](https://www.myuo.info/)                                      |          :cn:          |
 | [Stygian Lapis](https://w.atwiki.jp/stygianlapis/)                    |          :jp:          |
