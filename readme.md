@@ -10,7 +10,6 @@
 | [Alathair](http://www.alathair.de/)                                   |          :de:          |
 | [Alexandria](http://www.easyuo.com/forum/viewforum.php?f=42)          |          :gb:          |
 | [Arcanum](https://duckduckgo.com/?q=arcanum.gen.tr)                   |          :tr:          |
-| [Cataclysm](http://www.cataclysmuo.com/)                              |          :gb:          |
 | [ChaosAge](https://chaosage.com.br/)                                  |        :brazil:        |
 | [Clair’s Lair](http://www.uo-cl.com/)                                 |        :poland:        |
 | [Dark Crusaders](http://www.darkcrusaders-uo.webs.com/)               |          :gb:          |
