@@ -34,7 +34,7 @@
 | [Mysterious World](http://www.mw-shard.pl/)                           |        :poland:        |
 | [Mystic](https://mystic.com.br/)                                      |        :brazil:        |
 | [Mystical Unicorn](https://mu2ndcoming.wixsite.com/mysticalunicorn)   |          :gb:          |
-| [Nebula](http://www.nebula.web.tr/)                                   |          :tr:          |
+| [Nebula](https://duckduckgo.com/?q=www.nebula.web.tr)                 |          :tr:          |
 | [Nelderim](http://www.nelderim.org/)                                  |        :poland:        |
 | [Neverlands Phoenix](https://duckduckgo.com/?q=neverlandsphoenix.org) |          :gb:          |
 | [NoTramAos](http://notramaos.com)                                     |          :gb:          |
@@ -67,7 +67,7 @@
 | [UO Clone](http://www.uoclone.pl/)                                    |        :poland:        |
 | [UO Dreams](http://www.uodreams.com)                                  |       :gb: :it:        |
 | [UO Eternal Vengence](https://uoevhome.webs.com)                      |          :gb:          |
-| [UO Eventine](http://www.uoeventine.com)                              |          :gb:          |
+| [UO Eventine](https://duckduckgo.com/?q=uoeventine.net)               |          :gb:          |
 | [UO Evolution](http://www.uoevolution.com/)                           |          :gb:          |
 | [UO Expanse](http://www.uoexpanse.com/)                               |          :gb:          |
 | [UO Forever](http://www.uoforever.com/)                               |          :gb:          |
