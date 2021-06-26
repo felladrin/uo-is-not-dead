@@ -90,7 +90,6 @@
 | [UoGames](https://uogames.ru/)                                        |          :ru:          |
 | [UOItalia Reborn](https://www.uoitalia.net/en/)                       |       :gb: :it:        |
 | [UORPG](http://en.uorpg.net/)                                         |       :gb: :ru:        |
-| [Utopia Unchained](http://uounchained.ru)                             |          :ru:          |
 | [Valhalla Lost](http://valhallalost.com/)                             |          :gb:          |
 | [Vesper Tales](http://www.vespertales.de/)                            |          :de:          |
 | [Vetus Mundus](https://vetus-mundus.de/)                              |       :gb: :de:        |
