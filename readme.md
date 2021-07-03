@@ -52,7 +52,6 @@
 | [Skyrim](https://www.myuo.info/)                                      |          :cn:          |
 | [Stygian Lapis](https://w.atwiki.jp/stygianlapis/)                    |          :jp:          |
 | [Sylvan Heart](https://duckduckgo.com/?q=sylvandreams.co.uk)          |          :gb:          |
-| [T2A Resurrection](http://www.t2aresurrection.com)                    |          :gb:          |
 | [Terre Incantate](http://www.terreincantate.com)                      |          :it:          |
 | [The Abyss UO](http://uo.theabyss.ru/)                                |          :ru:          |
 | [The Abyss UOKR](http://runuo.theabyss.ru/)                           |          :ru:          |
