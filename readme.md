@@ -92,7 +92,6 @@
 | [Valhalla Lost](http://valhallalost.com/)                             |          :gb:          |
 | [Vesper Tales](http://www.vespertales.de/)                            |          :de:          |
 | [Vetus Mundus](https://vetus-mundus.de/)                              |       :gb: :de:        |
-| [Wakened Online](http://www.wakened.net/)                             |          :gb:          |
 | [Wendelwelt](http://www.wendelwelt.net/features.php)                  |          :de:          |
 | [Whispering Pines](http://wpshard.com/)                               |          :gb:          |
 | [White Tiger](https://white-tiger.rpg-board.net)                      |          :gb:          |
