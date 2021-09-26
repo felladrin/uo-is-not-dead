@@ -12,13 +12,14 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
     - name: Check links
-      uses: peter-evans/link-checker@v1
+      uses: lycheeverse/lychee-action@v1
       with:
-        args: -v -r *
+        args: --verbose --no-progress **/*.md **/*.html
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
     - name: Create an issue if needed
-      uses: peter-evans/create-issue-from-file@v2
+      uses: peter-evans/create-issue-from-file@v3
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
         title: Link Checker Report
-        content-filepath: ./link-checker/out.md
+        content-filepath: ./lychee/out.md
         labels: report, automated issue
