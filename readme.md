@@ -71,7 +71,6 @@
 | [UO Expanse](http://www.uoexpanse.com/)                               |          :gb:          |
 | [UO Forever](http://www.uoforever.com/)                               |          :gb:          |
 | [UO Heritage: TrueUO](https://trueuo.com/)                            |          :gb:          |
-| [UO Hybrid](http://www.uohybrid.com/)                                 |          :gb:          |
 | [UO Lost Lands](https://uolostlands.com)                              |          :gb:          |
 | [UO Outlands](https://uooutlands.com)                                 |          :gb:          |
 | [UO Playground](http://uoplayground.weebly.com/)                      |          :gb:          |
