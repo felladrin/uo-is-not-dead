@@ -10,7 +10,7 @@
 | [Alathair](http://www.alathair.de/)                                   |          :de:          |
 | [Alexandria](http://www.easyuo.com/forum/viewforum.php?f=42)          |          :gb:          |
 | [Arcanum](https://duckduckgo.com/?q=arcanum.gen.tr)                   |          :tr:          |
-| [Asmodyan](https://asmodyan.com.br/)                                  |        :brazil:        |
+| [Asmodyan](https://duckduckgo.com/?q=asmodyan.com.br)                 |        :brazil:        |
 | [Clair’s Lair](http://www.uo-cl.com/)                                 |        :poland:        |
 | [Dark Crusaders](http://www.darkcrusaders-uo.webs.com/)               |          :gb:          |
 | [Darkness Once Forsaken](http://darkness-once-forsaken.com)           |          :gb:          |
