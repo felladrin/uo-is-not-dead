@@ -5,7 +5,6 @@
 | [7LU UO](http://www.7lu.com/)                                         |          :cn:          |
 | [ABC UO](http://www.abcuo.com/)                                       |          :gb:          |
 | [Age of Power](https://aop.x-mx.net)                                  |          :ru:          |
-| [Age of Valor](http://www.uovalor.com/)                               |          :gb:          |
 | [Akara Essex](http://www.akaraessex.com/)                             |          :gb:          |
 | [Alathair](http://www.alathair.de/)                                   |          :de:          |
 | [Alexandria](http://www.easyuo.com/forum/viewforum.php?f=42)          |          :gb:          |
