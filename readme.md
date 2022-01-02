@@ -29,7 +29,6 @@
 | [Legends of Sosaria](https://www.legendsofsosaria.com)                |          :gb:          |
 | [Lindrett](https://lindrett.ru/)                                      |          :ru:          |
 | [Lost City](http://www.lostcityshard.com/)                            |          :gb:          |
-| [Magna Periculum](http://magnapericulum.com)                          |          :gb:          |
 | [Mahaon Land](http://mahaon.land/)                                    |          :ru:          |
 | [Mysterious World](http://www.mw-shard.pl/)                           |        :poland:        |
 | [Mystic](https://mystic.com.br/)                                      |        :brazil:        |
