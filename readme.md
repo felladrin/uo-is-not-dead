@@ -19,10 +19,12 @@
 | [Eternal Pledge](http://eternalpledgeuo.webs.com/)                    |          :gb:          |
 | [Excelsior](http://www.uoex.net/)                                     |          :gb:          |
 | [Faerun's Legends](http://faerunslegends.net)                         |          :it:          |
+| [Forgotten Lore](http://flshard.wikidot.com/)                         |        :brazil:        |
 | [Grimm's World](https://jdgeorge2014.wixsite.com/grimmsworld)         |          :gb:          |
 | [Heaven’s Wrath](http://grheavenswrath.webs.com/)                     |          :gb:          |
 | [HellFire Evolution](http://www.hfshard.com.br/)                      |        :brazil:        |
 | [Karma UO](https://duckduckgo.com/?q=karmauo.com)                     |          :gb:          |
+| [Lendas do Velho Mundo](http://lvmshard.wikidot.com/)                 |        :brazil:        |
 | [Legacy UO](http://legacy-uo.com/)                                    |          :gb:          |
 | [Legends of Sosaria](https://www.legendsofsosaria.com)                |          :gb:          |
 | [Lindrett](https://lindrett.ru/)                                      |          :ru:          |
