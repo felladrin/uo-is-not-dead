@@ -15,6 +15,7 @@
 | [Dawn of New Age](https://dawnofanewage.it)                           |          :it:          |
 | [Doom's Day Returns](https://doomsdayreturns.webs.com)                |          :gb:          |
 | [Dragon World](http://www.drw.ru/en/)                                 |       :gb: :ru:        |
+| [Dragonic Age](https://dragonicage.com/)                              |        :brazil:        |
 | [Endor](http://www.endor.cz/)                                         |    :czech_republic:    |
 | [Eternal Pledge](http://eternalpledgeuo.webs.com/)                    |          :gb:          |
 | [Excelsior](http://www.uoex.net/)                                     |          :gb:          |
@@ -29,7 +30,6 @@
 | [Legends of Sosaria](https://www.legendsofsosaria.com)                |          :gb:          |
 | [Lindrett](https://lindrett.ru/)                                      |          :ru:          |
 | [Lost City](http://www.lostcityshard.com/)                            |          :gb:          |
-| [MacacoUO](https://github.com/Ziden/MacacoUO)                         |        :brazil:        |
 | [Mahaon Land](http://mahaon.land/)                                    |          :ru:          |
 | [Mysterious World](http://www.mw-shard.pl/)                           |        :poland:        |
 | [Mystic](https://mystic.com.br/)                                      |        :brazil:        |
