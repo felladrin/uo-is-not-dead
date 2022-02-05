@@ -27,6 +27,7 @@
 | [Legends of Sosaria](https://www.legendsofsosaria.com)                |          :gb:          |
 | [Lindrett](https://lindrett.ru/)                                      |          :ru:          |
 | [Lost City](http://www.lostcityshard.com/)                            |          :gb:          |
+| [MacacoUO](https://github.com/Ziden/MacacoUO)                         |        :brazil:        |
 | [Mahaon Land](http://mahaon.land/)                                    |          :ru:          |
 | [Mysterious World](http://www.mw-shard.pl/)                           |        :poland:        |
 | [Mystic](https://mystic.com.br/)                                      |        :brazil:        |
