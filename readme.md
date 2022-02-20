@@ -26,7 +26,6 @@
 | [HellFire Evolution](http://www.hfshard.com.br/)                      |        :brazil:        |
 | [Karma UO](https://duckduckgo.com/?q=karmauo.com)                     |          :gb:          |
 | [Lendas do Velho Mundo](http://lvmshard.wikidot.com/)                 |        :brazil:        |
-| [Legacy UO](http://legacy-uo.com/)                                    |          :gb:          |
 | [Legends of Sosaria](https://www.legendsofsosaria.com)                |          :gb:          |
 | [Lindrett](https://lindrett.ru/)                                      |          :ru:          |
 | [Lost City](http://www.lostcityshard.com/)                            |          :gb:          |
@@ -45,7 +44,6 @@
 | [Paradise Found](http://paradisefounduo.com/content.php)              |          :gb:          |
 | [Paths of Virtue](https://uopathsofvirtue.com)                        |          :gb:          |
 | [Pergon](http://www.welt-pergon.de/)                                  |          :de:          |
-| [Quingis](https://www.quingis.com/?lang=en)                           |       :gb: :tr:        |
 | [Raven Moon](https://uoravenmoon.wixsite.com/website)                 |          :gb:          |
 | [RealWorld](http://www.realworld.su/)                                 |          :ru:          |
 | [Revolution UO](http://www.revolutionuo.net/)                         |          :tr:          |
