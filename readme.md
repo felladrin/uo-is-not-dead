@@ -9,7 +9,6 @@
 | [Alathair](http://www.alathair.de/)                                   |          :de:          |
 | [Alexandria](http://www.easyuo.com/forum/viewforum.php?f=42)          |          :gb:          |
 | [Arcanum](https://duckduckgo.com/?q=arcanum.gen.tr)                   |          :tr:          |
-| [Asmodyan](https://duckduckgo.com/?q=asmodyan.com.br)                 |        :brazil:        |
 | [Dark Crusaders](http://www.darkcrusaders-uo.webs.com/)               |          :gb:          |
 | [Darkness Once Forsaken](http://darkness-once-forsaken.com)           |          :gb:          |
 | [Dawn of New Age](https://dawnofanewage.it)                           |          :it:          |
@@ -72,7 +71,6 @@
 | [UO Lost Lands](https://uolostlands.com)                              |          :gb:          |
 | [UO Outlands](https://uooutlands.com)                                 |          :gb:          |
 | [UO Playground](http://uoplayground.weebly.com/)                      |          :gb:          |
-| [UO Redemption](https://duckduckgo.com/?q=uoredemption.com)           |          :gb:          |
 | [UO Renaissance](http://www.uorenaissance.com/)                       |          :gb:          |
 | [UO Revealed](http://uorevealed.com/)                                 |          :gb:          |
 | [UO Roleplay](http://www.uoroleplay.com/)                             |          :gb:          |
