@@ -51,11 +51,9 @@
 | [Terre Incantate](http://www.terreincantate.com)                      |          :it:          |
 | [The Abyss UO](http://uo.theabyss.ru/)                                |          :ru:          |
 | [The Abyss UOKR](http://runuo.theabyss.ru/)                           |          :ru:          |
-| [The Dark Tides](http://thedarktides.com)                             |          :gb:          |
 | [The Miracle](https://themiraclegdr.com/)                             |          :it:          |
 | [The Verse](http://theverse.forumotion.com)                           |          :gb:          |
 | [Ultima Alianza](https://ultima-alianza.com)                          |          :es:          |
-| [Ultima Shards: Multiverse](https://ultima-shards.com)                |          :gb:          |
 | [UnrealUO](http://uo.unreal.us/)                                      |          :gb:          |
 | [UO Alive](https://uoalive.com)                                       |          :gb:          |
 | [UO Antares](http://bestuo.ru/)                                       |          :ru:          |
