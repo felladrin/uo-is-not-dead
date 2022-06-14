@@ -45,7 +45,6 @@
 | [Raven Moon](https://uoravenmoon.wixsite.com/website)                 |          :gb:          |
 | [RealWorld](http://www.realworld.su/)                                 |          :ru:          |
 | [Revolution UO](http://www.revolutionuo.net/)                         |          :tr:          |
-| [Skyrim](https://www.myuo.info/)                                      |          :cn:          |
 | [Stygian Lapis](https://w.atwiki.jp/stygianlapis/)                    |          :jp:          |
 | [Sylvan Heart](https://duckduckgo.com/?q=sylvandreams.co.uk)          |          :gb:          |
 | [Terre Incantate](http://www.terreincantate.com)                      |          :it:          |
