@@ -73,7 +73,6 @@
 | [UO Second Age](http://www.uosecondage.com/)                          |          :gb:          |
 | [UO Sigena](http://www.uosigena.de/home/index.php)                    |          :de:          |
 | [UO Soul](http://ultima-online.at.ua/)                                |          :ru:          |
-| [UO Stones](https://uostones.ucoz.net)                                |          :gb:          |
 | [UO Succession](https://www.uosuccession.com)                         |          :gb:          |
 | [UO Traditions](http://www.uotraditions.com/)                         |          :gb:          |
 | [UOG Demise](https://www.uogdemise.com)                               |          :gb:          |
@@ -91,7 +90,7 @@
 | [Zulu Hotel Italia](https://www.zhi.it/)                              |          :it:          |
 | [ZuluHotel UA](http://zuluhotel.net.ua/)                              |          :ru:          |
 
-## Where to find more
+## Where to find more shards
 
 - [UO Portal](http://uoportal.com/)
 - [JoinUO](http://joinuo.com/)
