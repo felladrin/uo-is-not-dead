@@ -37,7 +37,6 @@
 | [NoTramAos](http://notramaos.com)                                     |          :gb:          |
 | [Oblivion](http://oblivionshard.wikidot.com/)                         |          :gb:          |
 | [Obsidian](http://dxgaming.com/obsidian/status.php)                   |          :gb:          |
-| [Old Paradise](http://oldp.net/)                                      |          :ru:          |
 | [Pandora UO](http://www.pandorauo.com/)                               |          :gb:          |
 | [Paradise Found](http://paradisefounduo.com/content.php)              |          :gb:          |
 | [Paths of Virtue](https://uopathsofvirtue.com)                        |          :gb:          |
