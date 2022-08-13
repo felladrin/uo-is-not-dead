@@ -68,7 +68,6 @@
 | [UO Playground](http://uoplayground.weebly.com/)                      |          :gb:          |
 | [UO Renaissance](http://www.uorenaissance.com/)                       |          :gb:          |
 | [UO Revealed](http://uorevealed.com/)                                 |          :gb:          |
-| [UO Roleplay](http://www.uoroleplay.com/)                             |          :gb:          |
 | [UO Second Age](http://www.uosecondage.com/)                          |          :gb:          |
 | [UO Sigena](http://www.uosigena.de/home/index.php)                    |          :de:          |
 | [UO Soul](http://ultima-online.at.ua/)                                |          :ru:          |
