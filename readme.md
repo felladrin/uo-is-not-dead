@@ -41,7 +41,6 @@
 | [Paths of Virtue](https://uopathsofvirtue.com)                        |          :gb:          |
 | [Pergon](http://www.welt-pergon.de/)                                  |          :de:          |
 | [Raven Moon](https://uoravenmoon.wixsite.com/website)                 |          :gb:          |
-| [RealWorld](http://www.realworld.su/)                                 |          :ru:          |
 | [Revolution UO](http://www.revolutionuo.net/)                         |          :tr:          |
 | [Stygian Lapis](https://w.atwiki.jp/stygianlapis/)                    |          :jp:          |
 | [Sylvan Heart](https://duckduckgo.com/?q=sylvandreams.co.uk)          |          :gb:          |
