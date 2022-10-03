@@ -9,7 +9,7 @@
 | [Alexandria](http://www.easyuo.com/forum/viewforum.php?f=42)          |          :gb:          |
 | [Arcanum](https://duckduckgo.com/?q=arcanum.gen.tr)                   |          :tr:          |
 | [Dark Crusaders](http://www.darkcrusaders-uo.webs.com/)               |          :gb:          |
-| [Darkness Once Forsaken](http://darkness-once-forsaken.com)           |          :gb:          |
+| [Darkness Once Forsaken](https://darkness-once-forsaken.com)          |          :gb:          |
 | [Dawn of New Age](https://dawnofanewage.it)                           |          :it:          |
 | [Doom's Day Returns](https://doomsdayreturns.webs.com)                |          :gb:          |
 | [Dragon World](http://www.drw.ru/en/)                                 |       :gb: :ru:        |
@@ -75,7 +75,6 @@
 | [UoGames](https://uogames.ru/)                                        |          :ru:          |
 | [UOItalia Reborn](https://www.uoitalia.net/en/)                       |       :gb: :it:        |
 | [UORPG](http://en.uorpg.net/)                                         |       :gb: :ru:        |
-| [Valhalla Lost](http://valhallalost.com/)                             |          :gb:          |
 | [Vesper Tales](http://www.vespertales.de/)                            |          :de:          |
 | [Vetus Mundus](https://vetus-mundus.de/)                              |       :gb: :de:        |
 | [Wendelwelt](http://www.wendelwelt.net/features.php)                  |          :de:          |
