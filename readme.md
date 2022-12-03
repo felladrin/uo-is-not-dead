@@ -2,7 +2,6 @@
 
 | Shard Name                                                            | :globe_with_meridians: |
 | --------------------------------------------------------------------- | :--------------------: |
-| [7LU UO](http://www.7lu.com/)                                         |          :cn:          |
 | [ABC UO](http://www.abcuo.com/)                                       |          :gb:          |
 | [Age of Power](https://aop.x-mx.net)                                  |          :ru:          |
 | [Alathair](http://www.alathair.de/)                                   |          :de:          |
