@@ -5,7 +5,6 @@
 | [ABC UO](http://www.abcuo.com/)                                       |          :gb:          |
 | [Age of Power](https://aop.x-mx.net)                                  |          :ru:          |
 | [Alathair](http://www.alathair.de/)                                   |          :de:          |
-| [Alexandria](http://www.easyuo.com/forum/viewforum.php?f=42)          |          :gb:          |
 | [Arcanum](https://duckduckgo.com/?q=arcanum.gen.tr)                   |          :tr:          |
 | [Dark Crusaders](http://www.darkcrusaders-uo.webs.com/)               |          :gb:          |
 | [Darkness Once Forsaken](https://darkness-once-forsaken.com)          |          :gb:          |
