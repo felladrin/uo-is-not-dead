@@ -35,7 +35,6 @@
 | [Oblivion](http://oblivionshard.wikidot.com/)                         |          :gb:          |
 | [Obsidian](http://dxgaming.com/obsidian/status.php)                   |          :gb:          |
 | [Pandora UO](http://www.pandorauo.com/)                               |          :gb:          |
-| [Paradise Found](http://paradisefounduo.com/content.php)              |          :gb:          |
 | [Paths of Virtue](https://uopathsofvirtue.com)                        |          :gb:          |
 | [Pergon](http://www.welt-pergon.de/)                                  |          :de:          |
 | [Raven Moon](https://uoravenmoon.wixsite.com/website)                 |          :gb:          |
@@ -98,6 +97,5 @@
 - [GA TOP](http://gatop.ru/index.php?cat_id=36)
 - [TOPG](https://topg.org/ultima-private-servers/)
 - [RPG Paradize](http://www.rpg-paradize.com/top-site-Ultima+Online-6)
-- [Games Top100](http://www.gamesites100.net/ultimaonline)
 - [TOP RPG](https://top.roleplay.ru/r10p1.html)
 - [Top-100 Lista](http://ultima.top-100.pl/)
