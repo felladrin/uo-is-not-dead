@@ -6,24 +6,17 @@
 | [Age of Power](https://aop.x-mx.net)                                  |          :ru:          |
 | [Alathair](http://www.alathair.de/)                                   |          :de:          |
 | [Arcanum](https://duckduckgo.com/?q=arcanum.gen.tr)                   |          :tr:          |
-| [Dark Crusaders](http://www.darkcrusaders-uo.webs.com/)               |          :gb:          |
 | [Darkness Once Forsaken](https://darkness-once-forsaken.com)          |          :gb:          |
 | [Dawn of New Age](https://dawnofanewage.it)                           |          :it:          |
-| [Doom's Day Returns](https://doomsdayreturns.webs.com)                |          :gb:          |
 | [Dragon World](http://www.drw.ru/en/)                                 |       :gb: :ru:        |
 | [Dragonic Age](https://dragonicage.com/)                              |        :brazil:        |
-| [Endor](http://www.endor.cz/)                                         |    :czech_republic:    |
 | [Eternal Pledge](http://eternalpledgeuo.webs.com/)                    |          :gb:          |
 | [Excelsior](http://www.uoex.net/)                                     |          :gb:          |
 | [Faerun's Legends](http://faerunslegends.net)                         |          :it:          |
-| [Forgotten Lore](http://flshard.wikidot.com/)                         |        :brazil:        |
 | [Grimm's World](https://jdgeorge2014.wixsite.com/grimmsworld)         |          :gb:          |
 | [Heaven’s Wrath](http://grheavenswrath.webs.com/)                     |          :gb:          |
 | [HellFire Evolution](http://www.hfshard.com.br/)                      |        :brazil:        |
-| [Karma UO](https://duckduckgo.com/?q=karmauo.com)                     |          :gb:          |
-| [Lendas do Velho Mundo](http://lvmshard.wikidot.com/)                 |        :brazil:        |
 | [Legends of Sosaria](https://www.legendsofsosaria.com)                |          :gb:          |
-| [Lindrett](https://lindrett.ru/)                                      |          :ru:          |
 | [Lost City](http://www.lostcityshard.com/)                            |          :gb:          |
 | [Mysterious World](http://www.mw-shard.pl/)                           |        :poland:        |
 | [Mystic](https://mystic.com.br/)                                      |        :brazil:        |
@@ -32,35 +25,29 @@
 | [Nelderim](http://www.nelderim.org/)                                  |        :poland:        |
 | [Neverlands Phoenix](https://duckduckgo.com/?q=neverlandsphoenix.org) |          :gb:          |
 | [NoTramAos](http://notramaos.com)                                     |          :gb:          |
-| [Oblivion](http://oblivionshard.wikidot.com/)                         |          :gb:          |
-| [Obsidian](http://dxgaming.com/obsidian/status.php)                   |          :gb:          |
-| [Pandora UO](http://www.pandorauo.com/)                               |          :gb:          |
+| [Obsidian](https://dxgaming.com/obsidian/)                            |          :gb:          |
+| [Pandora UO](https://pandorauo.com/portal/)                           |          :gb:          |
 | [Paths of Virtue](https://uopathsofvirtue.com)                        |          :gb:          |
 | [Pergon](http://www.welt-pergon.de/)                                  |          :de:          |
 | [Raven Moon](https://uoravenmoon.wixsite.com/website)                 |          :gb:          |
-| [Revolution UO](http://www.revolutionuo.net/)                         |          :tr:          |
-| [Stygian Lapis](https://w.atwiki.jp/stygianlapis/)                    |          :jp:          |
-| [Sylvan Heart](https://duckduckgo.com/?q=sylvandreams.co.uk)          |          :gb:          |
+| [Sylvan Heart](http://www.sylvandreams.co.uk/)                        |          :gb:          |
 | [Terre Incantate](http://www.terreincantate.com)                      |          :it:          |
 | [The Abyss UO](http://uo.theabyss.ru/)                                |          :ru:          |
 | [The Abyss UOKR](http://runuo.theabyss.ru/)                           |          :ru:          |
 | [The Miracle](https://themiraclegdr.com/)                             |          :it:          |
-| [The Verse](http://theverse.forumotion.com)                           |          :gb:          |
 | [Ultima Alianza](https://ultima-alianza.com)                          |          :es:          |
 | [UnrealUO](http://uo.unreal.us/)                                      |          :gb:          |
 | [UO Alive](https://uoalive.com)                                       |          :gb:          |
-| [UO Antares](http://bestuo.ru/)                                       |          :ru:          |
 | [UO Clone](http://www.uoclone.pl/)                                    |        :poland:        |
 | [UO Dreams](http://www.uodreams.com)                                  |       :gb: :it:        |
 | [UO Eternal Vengence](https://uoevhome.webs.com)                      |          :gb:          |
 | [UO Eventine](https://duckduckgo.com/?q=uoeventine.net)               |          :gb:          |
 | [UO Evolution](http://www.uoevolution.com/)                           |          :gb:          |
-| [UO Expanse](http://www.uoexpanse.com/)                               |          :gb:          |
+| [UO Expanse](https://www.uoexpanse.com/)                              |          :gb:          |
 | [UO Forever](http://www.uoforever.com/)                               |          :gb:          |
 | [UO Heritage: TrueUO](https://trueuo.com/)                            |          :gb:          |
 | [UO Lost Lands](https://uolostlands.com)                              |          :gb:          |
 | [UO Outlands](https://uooutlands.com)                                 |          :gb:          |
-| [UO Playground](http://uoplayground.weebly.com/)                      |          :gb:          |
 | [UO Renaissance](http://www.uorenaissance.com/)                       |          :gb:          |
 | [UO Revealed](http://uorevealed.com/)                                 |          :gb:          |
 | [UO Second Age](http://www.uosecondage.com/)                          |          :gb:          |
@@ -76,7 +63,6 @@
 | [Vetus Mundus](https://vetus-mundus.de/)                              |       :gb: :de:        |
 | [Wendelwelt](http://www.wendelwelt.net/features.php)                  |          :de:          |
 | [Whispering Pines](http://wpshard.com/)                               |          :gb:          |
-| [White Tiger](https://white-tiger.rpg-board.net)                      |          :gb:          |
 | [Wolvesbane UO](https://wolvesbaneuo.com)                             |          :gb:          |
 | [World of UO](http://www.worldofuo.com/)                              |          :tr:          |
 | [Zulu Hotel Italia](https://www.zhi.it/)                              |          :it:          |
