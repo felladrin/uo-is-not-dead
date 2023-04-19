@@ -72,7 +72,7 @@
 
 - [Shard Portal](https://shardportal.com/)
 - [UOFreeshards Top List](https://vote.uofreeshards.net/)
-- [UO Portal](http://uoportal.com/)
+- [UO Portal](https://uoportal.com/)
 - [Venus Ultima](https://ultima.venus.gen.tr/)
 - [UO Developer](https://www.uo-developer.com/p-astats.html)
 - [UOPlayer](https://www.uoplayer.com/)
@@ -81,5 +81,5 @@
 - [Top Game Sites](https://www.topgamesites.net/ultimaonline)
 - [GTOP100](https://gtop100.com/topsites/Ultima-Online)
 - [TOPG](https://topg.org/ultima-private-servers/)
-- [RPG Paradize](http://www.rpg-paradize.com/top-site-Ultima+Online-6)
+- [RPG Paradize](https://www.rpg-paradize.com/top-site-Ultima+Online-6)
 - [TOP RPG](https://top.roleplay.ru/r10p1.html)
