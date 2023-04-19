@@ -70,8 +70,9 @@
 
 ## Where to find more shards
 
+- [Shard Portal](https://shardportal.com/)
+- [UOFreeshards Top List](https://vote.uofreeshards.net/)
 - [UO Portal](http://uoportal.com/)
-- [JoinUO](http://joinuo.com/)
 - [Venus Ultima](https://ultima.venus.gen.tr/)
 - [UO Developer](https://www.uo-developer.com/p-astats.html)
 - [UOPlayer](https://www.uoplayer.com/)
@@ -79,9 +80,6 @@
 - [Top100Zone](https://www.top100zone.com/ultima-online)
 - [Top Game Sites](https://www.topgamesites.net/ultimaonline)
 - [GTOP100](https://gtop100.com/topsites/Ultima-Online)
-- [Game100rus](http://game100rus.com/index.php?cat_id=36)
-- [GA TOP](http://gatop.ru/index.php?cat_id=36)
 - [TOPG](https://topg.org/ultima-private-servers/)
 - [RPG Paradize](http://www.rpg-paradize.com/top-site-Ultima+Online-6)
 - [TOP RPG](https://top.roleplay.ru/r10p1.html)
-- [Top-100 Lista](http://ultima.top-100.pl/)
