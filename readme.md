@@ -16,6 +16,7 @@
 | [Grimm's World](https://jdgeorge2014.wixsite.com/grimmsworld)         |          :gb:          |
 | [Heaven’s Wrath](http://grheavenswrath.webs.com/)                     |          :gb:          |
 | [HellFire Evolution](http://www.hfshard.com.br/)                      |        :brazil:        |
+| [Insane UO](https://insaneuo.com)                                     |          :gb:          |
 | [Legends of Sosaria](https://www.legendsofsosaria.com)                |          :gb:          |
 | [Lost City](http://www.lostcityshard.com/)                            |          :gb:          |
 | [Mysterious World](http://www.mw-shard.pl/)                           |        :poland:        |
