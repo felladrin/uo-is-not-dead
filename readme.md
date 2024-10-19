@@ -3,18 +3,14 @@
 | Shard Name                                                            | :globe_with_meridians: |
 | --------------------------------------------------------------------- | :--------------------: |
 | [ABC UO](http://www.abcuo.com/)                                       |          :gb:          |
-| [Age of Power](https://aop.x-mx.net)                                  |          :ru:          |
 | [Alathair](http://www.alathair.de/)                                   |          :de:          |
 | [Arcanum](https://duckduckgo.com/?q=arcanum.gen.tr)                   |          :tr:          |
 | [Darkness Once Forsaken](https://darkness-once-forsaken.com)          |          :gb:          |
 | [Dawn of New Age](https://dawnofanewage.it)                           |          :it:          |
 | [Dragon World](http://www.drw.ru/en/)                                 |       :gb: :ru:        |
-| [Dragonic Age](https://dragonicage.com/)                              |        :brazil:        |
-| [Eternal Pledge](http://eternalpledgeuo.webs.com/)                    |          :gb:          |
 | [Excelsior](http://www.uoex.net/)                                     |          :gb:          |
 | [Faerun's Legends](http://faerunslegends.net)                         |          :it:          |
 | [Grimm's World](https://jdgeorge2014.wixsite.com/grimmsworld)         |          :gb:          |
-| [Heaven’s Wrath](http://grheavenswrath.webs.com/)                     |          :gb:          |
 | [HellFire Evolution](http://www.hfshard.com.br/)                      |        :brazil:        |
 | [Insane UO](https://insaneuo.com)                                     |          :gb:          |
 | [Legends of Sosaria](https://www.legendsofsosaria.com)                |          :gb:          |
@@ -28,7 +24,6 @@
 | [NoTramAos](http://notramaos.com)                                     |          :gb:          |
 | [Obsidian](https://dxgaming.com/obsidian/)                            |          :gb:          |
 | [Pandora UO](https://pandorauo.com/portal/)                           |          :gb:          |
-| [Paths of Virtue](https://uopathsofvirtue.com)                        |          :gb:          |
 | [Pergon](http://www.welt-pergon.de/)                                  |          :de:          |
 | [Raven Moon](https://uoravenmoon.wixsite.com/website)                 |          :gb:          |
 | [Sylvan Heart](http://www.sylvandreams.co.uk/)                        |          :gb:          |
@@ -41,8 +36,7 @@
 | [UO Alive](https://uoalive.com)                                       |          :gb:          |
 | [UO Clone](http://www.uoclone.pl/)                                    |        :poland:        |
 | [UO Dreams](http://www.uodreams.com)                                  |       :gb: :it:        |
-| [UO Eternal Vengence](https://uoevhome.webs.com)                      |          :gb:          |
-| [UO Eventine](https://duckduckgo.com/?q=uoeventine.net)               |          :gb:          |
+| [UO Eventine](https://uoeventine.net/)                                |          :gb:          |
 | [UO Evolution](http://www.uoevolution.com/)                           |          :gb:          |
 | [UO Expanse](https://www.uoexpanse.com/)                              |          :gb:          |
 | [UO Forever](http://www.uoforever.com/)                               |          :gb:          |
@@ -62,7 +56,6 @@
 | [UORPG](http://en.uorpg.net/)                                         |       :gb: :ru:        |
 | [Vesper Tales](http://www.vespertales.de/)                            |          :de:          |
 | [Vetus Mundus](https://vetus-mundus.de/)                              |       :gb: :de:        |
-| [Wendelwelt](http://www.wendelwelt.net/features.php)                  |          :de:          |
 | [Whispering Pines](http://wpshard.com/)                               |          :gb:          |
 | [Wolvesbane UO](https://wolvesbaneuo.com)                             |          :gb:          |
 | [World of UO](http://www.worldofuo.com/)                              |          :tr:          |
@@ -72,7 +65,6 @@
 ## Where to find more shards
 
 - [Shard Portal](https://shardportal.com/)
-- [UOFreeshards Top List](https://vote.uofreeshards.net/)
 - [UO Portal](https://uoportal.com/)
 - [Venus Ultima](https://ultima.venus.gen.tr/)
 - [UO Developer](https://www.uo-developer.com/p-astats.html)
