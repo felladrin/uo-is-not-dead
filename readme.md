@@ -4,7 +4,6 @@
 | --------------------------------------------------------------------- | :--------------------: |
 | [ABC UO](http://www.abcuo.com/)                                       |          :gb:          |
 | [Alathair](http://www.alathair.de/)                                   |          :de:          |
-| [Arcanum](https://duckduckgo.com/?q=arcanum.gen.tr)                   |          :tr:          |
 | [Darkness Once Forsaken](https://darkness-once-forsaken.com)          |          :gb:          |
 | [Dawn of New Age](https://dawnofanewage.it)                           |          :it:          |
 | [Dragon World](http://www.drw.ru/en/)                                 |       :gb: :ru:        |
@@ -18,9 +17,8 @@
 | [Mysterious World](http://www.mw-shard.pl/)                           |        :poland:        |
 | [Mystic](https://mystic.com.br/)                                      |        :brazil:        |
 | [Mystical Unicorn](https://mu2ndcoming.wixsite.com/mysticalunicorn)   |          :gb:          |
-| [Nebula](https://duckduckgo.com/?q=www.nebula.web.tr)                 |          :tr:          |
+| [Nebula](https://nebula.web.tr/)                                      |          :tr:          |
 | [Nelderim](http://www.nelderim.org/)                                  |        :poland:        |
-| [Neverlands Phoenix](https://duckduckgo.com/?q=neverlandsphoenix.org) |          :gb:          |
 | [NoTramAos](http://notramaos.com)                                     |          :gb:          |
 | [Obsidian](https://dxgaming.com/obsidian/)                            |          :gb:          |
 | [Pandora UO](https://pandorauo.com/portal/)                           |          :gb:          |
@@ -34,7 +32,6 @@
 | [Ultima Alianza](https://ultima-alianza.com)                          |          :es:          |
 | [UnrealUO](http://uo.unreal.us/)                                      |          :gb:          |
 | [UO Alive](https://uoalive.com)                                       |          :gb:          |
-| [UO Clone](http://www.uoclone.pl/)                                    |        :poland:        |
 | [UO Dreams](http://www.uodreams.com)                                  |       :gb: :it:        |
 | [UO Eventine](https://uoeventine.net/)                                |          :gb:          |
 | [UO Evolution](http://www.uoevolution.com/)                           |          :gb:          |
@@ -64,7 +61,6 @@
 
 ## Where to find more shards
 
-- [Shard Portal](https://shardportal.com/)
 - [UO Portal](https://uoportal.com/)
 - [Venus Ultima](https://ultima.venus.gen.tr/)
 - [UO Developer](https://www.uo-developer.com/p-astats.html)
