@@ -18,7 +18,7 @@
 | [Mystic](https://mystic.com.br/)                                      |        :brazil:        |
 | [Mystical Unicorn](https://mu2ndcoming.wixsite.com/mysticalunicorn)   |          :gb:          |
 | [Nebula](https://nebula.web.tr/)                                      |          :tr:          |
-| [Nelderim](http://www.nelderim.org/)                                  |        :poland:        |
+| [Nelderim](https://nelderim.org/)                                     |        :poland:        |
 | [NoTramAos](http://notramaos.com)                                     |          :gb:          |
 | [Obsidian](https://dxgaming.com/obsidian/)                            |          :gb:          |
 | [Pandora UO](https://pandorauo.com/portal/)                           |          :gb:          |
