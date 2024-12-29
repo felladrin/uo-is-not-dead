@@ -13,7 +13,6 @@
 | [HellFire Evolution](http://www.hfshard.com.br/)                      |        :brazil:        |
 | [Insane UO](https://insaneuo.com)                                     |          :gb:          |
 | [Legends of Sosaria](https://www.legendsofsosaria.com)                |          :gb:          |
-| [Lost City](http://www.lostcityshard.com/)                            |          :gb:          |
 | [Mysterious World](http://www.mw-shard.pl/)                           |        :poland:        |
 | [Mystic](https://mystic.com.br/)                                      |        :brazil:        |
 | [Mystical Unicorn](https://mu2ndcoming.wixsite.com/mysticalunicorn)   |          :gb:          |
