@@ -46,7 +46,6 @@
 | [UO Soul](http://ultima-online.at.ua/)                                |          :ru:          |
 | [UO Succession](https://www.uosuccession.com)                         |          :gb:          |
 | [UO Traditions](http://www.uotraditions.com/)                         |          :gb:          |
-| [UOG Demise](https://www.uogdemise.com)                               |          :gb:          |
 | [UoGames](https://uogames.ru/)                                        |          :ru:          |
 | [UOItalia Reborn](https://www.uoitalia.net/en/)                       |       :gb: :it:        |
 | [UORPG](http://en.uorpg.net/)                                         |       :gb: :ru:        |
