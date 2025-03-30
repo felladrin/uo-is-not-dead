@@ -50,7 +50,6 @@
 | [UORPG](http://en.uorpg.net/)                                         |       :gb: :ru:        |
 | [Vesper Tales](http://www.vespertales.de/)                            |          :de:          |
 | [Vetus Mundus](https://vetus-mundus.de/)                              |       :gb: :de:        |
-| [Whispering Pines](http://wpshard.com/)                               |          :gb:          |
 | [Wolvesbane UO](https://wolvesbaneuo.com)                             |          :gb:          |
 | [World of UO](http://www.worldofuo.com/)                              |          :tr:          |
 | [Zulu Hotel Italia](https://www.zhi.it/)                              |          :it:          |
