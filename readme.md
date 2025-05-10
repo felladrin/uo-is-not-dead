@@ -59,7 +59,6 @@
 
 - [UO Portal](https://uoportal.com/)
 - [Venus Ultima](https://ultima.venus.gen.tr/)
-- [UO Developer](https://www.uo-developer.com/p-astats.html)
 - [UOPlayer](https://www.uoplayer.com/)
 - [XtremeTop100](https://www.xtremetop100.com/ultima-online)
 - [Top100Zone](https://www.top100zone.com/ultima-online)
