@@ -57,6 +57,7 @@
 
 ## Where to find more shards
 
+- [UOServers](https://uoservers.com/)
 - [UO Portal](https://uoportal.com/)
 - [Venus Ultima](https://ultima.venus.gen.tr/)
 - [UOPlayer](https://www.uoplayer.com/)
