@@ -59,7 +59,7 @@
 
 - [UOServers](https://uoservers.com/)
 - [UO Portal](https://uoportal.com/)
-- [Venus Ultima](https://ultima.venus.gen.tr/)
+- [UO Addicts](https://uoaddicts.com/servers)
 - [XtremeTop100](https://www.xtremetop100.com/ultima-online)
 - [Top100Zone](https://www.top100zone.com/ultima-online)
 - [Top Game Sites](https://www.topgamesites.net/ultimaonline)
