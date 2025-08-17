@@ -38,7 +38,6 @@
 | [UO Heritage: TrueUO](https://trueuo.com/)                            |          :gb:          |
 | [UO Lost Lands](https://uolostlands.com)                              |          :gb:          |
 | [UO Outlands](https://uooutlands.com)                                 |          :gb:          |
-| [UO Renaissance](http://www.uorenaissance.com/)                       |          :gb:          |
 | [UO Revealed](http://uorevealed.com/)                                 |          :gb:          |
 | [UO Second Age](http://www.uosecondage.com/)                          |          :gb:          |
 | [UO Sigena](http://www.uosigena.de/home/index.php)                    |          :de:          |
