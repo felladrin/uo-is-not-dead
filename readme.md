@@ -62,7 +62,6 @@
 - [XtremeTop100](https://www.xtremetop100.com/ultima-online)
 - [Top100Zone](https://www.top100zone.com/ultima-online)
 - [Top Game Sites](https://www.topgamesites.net/ultimaonline)
-- [GTOP100](https://gtop100.com/topsites/Ultima-Online)
 - [TOPG](https://topg.org/ultima-private-servers/)
 - [RPG Paradize](https://www.rpg-paradize.com/top-site-Ultima+Online-6)
 - [TOP RPG](https://top.roleplay.ru/r10p1.html)
