@@ -3,7 +3,6 @@
 | Shard Name                                                            | :globe_with_meridians: |
 | --------------------------------------------------------------------- | :--------------------: |
 | [ABC UO](http://www.abcuo.com/)                                       |          :gb:          |
-| [Alathair](http://www.alathair.de/)                                   |          :de:          |
 | [Darkness Once Forsaken](https://darkness-once-forsaken.com)          |          :gb:          |
 | [Dawn of New Age](https://dawnofanewage.it)                           |          :it:          |
 | [Dragon World](http://www.drw.ru/en/)                                 |       :gb: :ru:        |
