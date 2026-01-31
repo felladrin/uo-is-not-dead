@@ -55,6 +55,7 @@
 ## Where to find more shards
 
 - [UOServers](https://uoservers.com/)
+- [ServUO Shard Portal](https://www.servuo.dev/servers/)
 - [UO Portal](https://uoportal.com/)
 - [UO Addicts](https://uoaddicts.com/servers)
 - [XtremeTop100](https://www.xtremetop100.com/ultima-online)
