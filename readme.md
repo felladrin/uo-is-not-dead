@@ -22,7 +22,6 @@
 | [Pergon](http://www.welt-pergon.de/)                                  |          :de:          |
 | [Raven Moon](https://uoravenmoon.wixsite.com/website)                 |          :gb:          |
 | [Sylvan Heart](http://www.sylvandreams.co.uk/)                        |          :gb:          |
-| [Terre Incantate](http://www.terreincantate.com)                      |          :it:          |
 | [The Abyss UO](http://uo.theabyss.ru/)                                |          :ru:          |
 | [The Abyss UOKR](http://runuo.theabyss.ru/)                           |          :ru:          |
 | [The Miracle](https://themiraclegdr.com/)                             |          :it:          |
