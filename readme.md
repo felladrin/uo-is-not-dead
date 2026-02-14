@@ -56,6 +56,7 @@
 - [UOServers](https://uoservers.com/)
 - [ServUO Shard Portal](https://www.servuo.dev/servers/)
 - [UO Portal](https://uoportal.com/)
+- [UOGateway](https://www.uogateway.com/)
 - [UO Addicts](https://uoaddicts.com/servers)
 - [XtremeTop100](https://www.xtremetop100.com/ultima-online)
 - [Top100Zone](https://www.top100zone.com/ultima-online)
