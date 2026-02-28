@@ -25,7 +25,6 @@
 | [The Abyss UO](http://uo.theabyss.ru/)                                |          :ru:          |
 | [The Abyss UOKR](http://runuo.theabyss.ru/)                           |          :ru:          |
 | [The Miracle](https://themiraclegdr.com/)                             |          :it:          |
-| [UnrealUO](http://uo.unreal.us/)                                      |          :gb:          |
 | [UO Alive](https://uoalive.com)                                       |          :gb:          |
 | [UO Dreams](http://www.uodreams.com)                                  |       :gb: :it:        |
 | [UO Eventine](https://uoeventine.net/)                                |          :gb:          |
