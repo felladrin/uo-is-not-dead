@@ -4,11 +4,13 @@
 | ------------------------------------------------------------------- | :--------------------: |
 | [ABC Reborn](https://www.abc-uo.com)                                |          :gb:          |
 | [Arcane Swap](https://uo.arcaneswap.com/)                           |          :gb:          |
+| [AlternateUO](http://alternateuo.com)                               |          :gb:          |
 | [Arth](https://arthfreeserver.com/)                                 |          :gb:          |
 | [CALYPSO](http://calypso.likesyou.org/portal/)                      |          :gb:          |
+| [Banes World](https://banes.world)                                  |          :gb:          |
+| [Confictura: Legend & Adventure](https://confictura.net/)           |          :gb:          |
 | [Dark Academia](http://uoserver.site.nfoservers.com)                |          :gb:          |
 | [Dark Forest](http://darkforestfreeshard.weebly.com/)               |          :gb:          |
-| [Darkness Once Forsaken](https://darkness-once-forsaken.com)        |          :gb:          |
 | [Dawn of Ages: Reborn](https://dawnofagesreborn.servegame.com)      |          :gb:          |
 | [Dawn of New Age](https://dawnofanewage.it)                         |          :it:          |
 | [Dragon World](http://www.drw.ru/en/)                               |       :gb: :ru:        |
