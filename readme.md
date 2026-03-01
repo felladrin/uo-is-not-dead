@@ -7,6 +7,7 @@
 | [Arth](https://arthfreeserver.com/)                                 |          :gb:          |
 | [CALYPSO](http://calypso.likesyou.org/portal/)                      |          :gb:          |
 | [Dark Academia](http://uoserver.site.nfoservers.com)                |          :gb:          |
+| [Dark Forest](http://darkforestfreeshard.weebly.com/)               |          :gb:          |
 | [Darkness Once Forsaken](https://darkness-once-forsaken.com)        |          :gb:          |
 | [Dawn of Ages: Reborn](https://dawnofagesreborn.servegame.com)      |          :gb:          |
 | [Dawn of New Age](https://dawnofanewage.it)                         |          :it:          |
@@ -14,14 +15,15 @@
 | [Dreams World 2022](https://game4world.com/)                        |          :gb:          |
 | [Excelsior](http://www.uoex.net/)                                   |          :gb:          |
 | [Faerun's Legends](http://faerunslegends.net)                       |          :it:          |
+| [Forgotten World](https://fwuo.ru/)                                 |          :ru:          |
 | [Grimm's World](https://jdgeorge2014.wixsite.com/grimmsworld)       |          :gb:          |
 | [Haven Reborn](https://havenreborn.com/)                            |          :gb:          |
 | [HellFire Evolution](http://www.hfshard.com.br/)                    |        :brazil:        |
-| [Immortal Realms UO](https://immortalrealmsuo.weebly.com/)          |          :gb:          |
 | [IDOC](https://www.mondains.com/)                                   |          :gb:          |
+| [Immortal Realms UO](https://immortalrealmsuo.weebly.com/)          |          :gb:          |
 | [Insane UO](https://insaneuo.com)                                   |          :gb:          |
-| [Legends of Sosaria](https://www.legendsofsosaria.com)              |          :gb:          |
 | [Legend of Terra](https://legendofterra.es)                         |          :es:          |
+| [Legends of Sosaria](https://www.legendsofsosaria.com)              |          :gb:          |
 | [Mysterious World](http://www.mw-shard.pl/)                         |        :poland:        |
 | [Mystic](https://mystic.com.br/)                                    |        :brazil:        |
 | [Mystical Unicorn](https://mu2ndcoming.wixsite.com/mysticalunicorn) |          :gb:          |
@@ -45,6 +47,7 @@
 | [The Abyss UO](http://uo.theabyss.ru/)                              |          :ru:          |
 | [The Abyss UOKR](http://runuo.theabyss.ru/)                         |          :ru:          |
 | [The Crossroads](https://www.uocrossroads.net/)                     |          :gb:          |
+| [The Forbidden Lands](http://theforbiddenlandsuo.weebly.com/)       |          :gb:          |
 | [The Miracle](https://themiraclegdr.com/)                           |          :it:          |
 | [Thrones of Destiny](https://thronesofdestiny.com/)                 |          :gb:          |
 | [Tides of Power](https://uotides.com/)                              |          :gb:          |
