@@ -17,6 +17,7 @@
 | [Dragon World](http://www.drw.ru/en/)                               |       :gb: :ru:        |
 | [Excelsior](http://www.uoex.net/)                                   |          :gb:          |
 | [Faerun's Legends](https://www.faerunslegends.net)                  |          :it:          |
+| [Farham Citadel](https://uorealms.com/games/farham-citadel/)        |          :gb:          |
 | [Forgotten World](https://fwuo.ru/)                                 |          :ru:          |
 | [Grimm's World](https://jdgeorge2014.wixsite.com/grimmsworld)       |          :gb:          |
 | [Haven Reborn](https://havenreborn.com/)                            |          :gb:          |
@@ -37,10 +38,10 @@
 | [NightUO](https://nightuo.gen.tr/)                                  |          :tr:          |
 | [NoTramAoS](http://notramaos.com)                                   |          :gb:          |
 | [Obsidian](https://dxgaming.com/obsidian/)                          |          :gb:          |
-| [Old Paradise XL](https://oldp.net)                                 |          :ru:          |
+| [Old Paradise](https://oldp.net)                                    |          :ru:          |
 | [Overdrive](https://uooverdrive.com/)                               |          :gb:          |
 | [Pandora UO](https://pandorauo.com/portal/)                         |          :gb:          |
-| [Paths of Virtue - UORealms](https://uorealms.com)                  |          :gb:          |
+| [Paths of Virtue](https://uorealms.com/games/paths-of-virtue/)      |          :gb:          |
 | [Pergon](https://welt-pergon.de/wiki/doku.php/start)                |          :de:          |
 | [Quests and Legends UO](http://www.questsandlegends.com/)           |          :gb:          |
 | [Raven Moon](https://uoravenmoon.wixsite.com/website)               |          :gb:          |
