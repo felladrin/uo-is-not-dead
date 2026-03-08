@@ -11,7 +11,6 @@
 | [Confictura: Legend & Adventure](https://confictura.net/)           |          :gb:          |
 | [Dark Academia](http://uoserver.site.nfoservers.com)                |          :gb:          |
 | [Dark Forest](http://darkforestfreeshard.weebly.com/)               |          :gb:          |
-| [Dawn of Ages: Reborn](https://dawnofagesreborn.servegame.com)      |          :gb:          |
 | [Dawn of New Age](https://dawnofanewage.it)                         |          :it:          |
 | [Dragon World](http://www.drw.ru/en/)                               |       :gb: :ru:        |
 | [Dreams World 2022](https://game4world.com/)                        |          :gb:          |
