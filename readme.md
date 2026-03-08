@@ -52,8 +52,6 @@
 | [StarFall](https://www.starfalluo.com/)                             |          :gb:          |
 | [Strange-Earth](https://strange-earth.com/)                         |          :gb:          |
 | [Sylvan Heart](http://www.sylvandreams.co.uk/)                      |          :gb:          |
-| [The Abyss UO](http://uo.theabyss.ru/)                              |          :ru:          |
-| [The Abyss UOKR](http://runuo.theabyss.ru/)                         |          :ru:          |
 | [The Crossroads](https://www.uocrossroads.net/)                     |          :gb:          |
 | [The Forbidden Lands](https://theforbiddenlandsuo.weebly.com)       |          :gb:          |
 | [The Last Kingdom](https://lastkingdom.cz/en)                       |          :gb:          |
