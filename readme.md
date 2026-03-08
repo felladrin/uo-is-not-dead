@@ -105,6 +105,7 @@
 
 ## Where to find more shards
 
+- [ClassicUO Server List](https://play.classicuo.org/)
 - [UOServers](https://www.uoservers.com)
 - [ServUO Shard Portal](https://www.servuo.dev/servers/)
 - [UO Portal](https://uoportal.com/)
