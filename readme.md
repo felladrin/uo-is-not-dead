@@ -5,7 +5,6 @@
 | [ABC Reborn](https://abc-uo.com)                                    |          :gb:          |
 | [Age of Britannia](https://ageofbritannia.wordpress.com/)           |          :gb:          |
 | [AlternateUO](https://alternateuo.com)                              |          :gb:          |
-| [Arcane Swap](https://uo.arcaneswap.com/)                           |          :gb:          |
 | [Arth](https://arthfreeserver.com/)                                 |          :gb:          |
 | [Banes World](https://banes.world)                                  |          :gb:          |
 | [Beyond Sosaria](https://beyondsosaria.com/)                        |          :gb:          |
@@ -48,8 +47,6 @@
 | [Requiem](https://islesofaeolia.com/wikiRequiem/doku.php)           |          :gb:          |
 | [Reverence](https://www.uoreverence.com)                            |          :gb:          |
 | [Saga's UO](https://uoaddicts.com/servers/uo-sagas/)                |          :gb:          |
-| [Shadow Age Reborn](https://shadowagereborn.com/)                   |          :gb:          |
-| [SKYUO](https://skyuo.online)                                       |          :gb:          |
 | [StarFall](https://www.starfalluo.com/)                             |          :gb:          |
 | [Strange-Earth](https://strange-earth.com/)                         |          :gb:          |
 | [Sylvan Heart](http://www.sylvandreams.co.uk/)                      |          :gb:          |
@@ -65,9 +62,7 @@
 | [UO Alive](https://uoalive.com)                                     |          :gb:          |
 | [UO Apocalypse](https://uoapo.neocities.org/)                       |          :fr:          |
 | [UO Cataclysm](http://www.cataclysmuo.com)                          |          :gb:          |
-| [UO Dante's Inferno](https://uodantesinferno.com)                   |          :gb:          |
 | [UO Demise](https://www.uogdemise.com/)                             |          :gb:          |
-| [UO Dreams World](https://game4world.com/uo.html)                   |          :gb:          |
 | [UO Dreams](http://www.uodreams.com)                                |       :gb: :it:        |
 | [UO Elemental](http://uoelemental.com/)                             |          :gb:          |
 | [UO Enigma](https://wiki.uo-enigma.com)                             |          :gb:          |
@@ -87,13 +82,11 @@
 | [UO Soul](https://ultima-online.at.ua)                              |          :ru:          |
 | [UO Succession](https://www.uosuccession.com)                       |          :gb:          |
 | [UO Traditions](http://www.uotraditions.com/)                       |          :gb:          |
-| [UOEmu](https://uoemu.com)                                          |          :gb:          |
 | [UOGamers](https://uogamers.com/)                                   |          :gb:          |
 | [UoGames](https://uogames.ru/)                                      |          :ru:          |
 | [UOItalia Reborn](https://www.uoitalia.net/en/)                     |       :gb: :it:        |
 | [UORPG](https://uorpg.net/en/news)                                  |       :gb: :ru:        |
 | [UOSupremacy](https://www.iogn.it/uosupremacy)                      |          :it:          |
-| [UOWOS](https://uowos.lv/)                                          |        :latvia:        |
 | [Vesper Tales](https://www.vespertales.de)                          |          :de:          |
 | [Vetus Mundus](https://vetus-mundus.de/)                            |       :gb: :de:        |
 | [Whispering Pines](http://www.wpshard.com)                          |          :gb:          |
