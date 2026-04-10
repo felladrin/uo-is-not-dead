@@ -34,6 +34,7 @@
 | [MythicUO](https://mythic-uo.com/)                                  |          :gb:          |
 | [Nebula](https://nebula.web.tr/)                                    |          :tr:          |
 | [New Chance](https://newchance.forumactif.com/)                     |          :fr:          |
+| [New Renaissance](http://newrenaissanceuo.com/)                     |          :gb:          |
 | [NightUO](https://nightuo.gen.tr/)                                  |          :tr:          |
 | [NoTramAoS](http://notramaos.com)                                   |          :gb:          |
 | [Obsidian](https://dxgaming.com/obsidian/)                          |          :gb:          |
