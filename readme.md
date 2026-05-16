@@ -34,7 +34,6 @@
 | [MythicUO](https://mythic-uo.com/)                                  |          :gb:          |
 | [Nebula](https://nebula.web.tr/)                                    |          :tr:          |
 | [New Chance](https://newchance.forumactif.com/)                     |          :fr:          |
-| [New Renaissance](http://newrenaissanceuo.com/)                     |          :gb:          |
 | [NightUO](https://nightuo.gen.tr/)                                  |          :tr:          |
 | [NoTramAoS](http://notramaos.com)                                   |          :gb:          |
 | [Obsidian](https://dxgaming.com/obsidian/)                          |          :gb:          |
@@ -48,7 +47,6 @@
 | [Requiem](https://islesofaeolia.com/wikiRequiem/doku.php)           |          :gb:          |
 | [Reverence](https://www.uoreverence.com)                            |          :gb:          |
 | [Saga's UO](https://uoaddicts.com/servers/uo-sagas/)                |          :gb:          |
-| [StarFall](https://www.starfalluo.com/)                             |          :gb:          |
 | [Strange-Earth](https://strange-earth.com/)                         |          :gb:          |
 | [Sylvan Heart](http://www.sylvandreams.co.uk/)                      |          :gb:          |
 | [The Crossroads](https://www.uocrossroads.net/)                     |          :gb:          |
@@ -92,7 +90,6 @@
 | [Vetus Mundus](https://vetus-mundus.de/)                            |       :gb: :de:        |
 | [Whispering Pines](http://www.wpshard.com)                          |          :gb:          |
 | [White Tiger](https://white-tiger.rpg-board.net/)                   |          :gb:          |
-| [Wolvesbane UO](https://wolvesbaneuo.com/wp55)                      |          :gb:          |
 | [World of UO](https://www.worldofuo.com)                            |          :tr:          |
 | [Zulu Hotel Italia](https://www.zhi.it/portalnew/)                  |          :it:          |
 | [ZuluHotel UA](https://zuluhotel.net.ua)                            |          :ru:          |
