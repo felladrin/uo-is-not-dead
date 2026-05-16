@@ -4,19 +4,24 @@
 | ------------------------------------------------------------------- | :--------------------: |
 | [ABC Reborn](https://abc-uo.com)                                    |          :gb:          |
 | [Age of Britannia](https://ageofbritannia.wordpress.com/)           |          :gb:          |
+| [Age of Sosaria](https://ageofsosaria.com)                          |          :gb:          |
 | [AlternateUO](https://alternateuo.com)                              |          :gb:          |
 | [Arth](https://arthfreeserver.com/)                                 |          :gb:          |
 | [Banes World](https://banes.world)                                  |          :gb:          |
 | [Beyond Sosaria](https://beyondsosaria.com/)                        |          :gb:          |
 | [Calypso](http://calypso.likesyou.org/portal/)                      |          :gb:          |
+| [Cataclysm Infinity](http://cuoinfinity.com)                        |          :gb:          |
 | [Confictura](https://confictura.net/)                               |          :gb:          |
-| [Cryptonite](https://uocryptonite.com/)                         |          :fr:          |
+| [Cryptonite](https://uocryptonite.com/)                             |          :fr:          |
 | [Dark Academia](http://uoserver.site.nfoservers.com)                |          :gb:          |
 | [Dark Forest](http://darkforestfreeshard.weebly.com/)               |          :gb:          |
 | [Dragon World](http://www.drw.ru/en/)                               |       :gb: :ru:        |
+| [Dreams World](https://game4world.com)                              |       :gb: :ru:        |
 | [Excelsior](http://www.uoex.net/)                                   |          :gb:          |
+| [Endor Revived](https://www.endor-revived.com/)                     |          :gb:          |
 | [Faerun's Legends](https://www.faerunslegends.net)                  |          :it:          |
 | [Farham Citadel](https://uorealms.com/games/farham-citadel/)        |          :gb:          |
+| [EvoRealmUO](https://www.evorealmuo.com/)                           |          :gb:          |
 | [Forgotten World](https://fwuo.ru/)                                 |          :ru:          |
 | [Grimm's World](https://jdgeorge2014.wixsite.com/grimmsworld)       |          :gb:          |
 | [Haven Reborn](https://havenreborn.com/)                            |          :gb:          |
@@ -27,31 +32,34 @@
 | [Legend of Terra](https://legendofterra.es)                         |          :es:          |
 | [Legends of Sosaria](https://www.legendsofsosaria.com)              |          :gb:          |
 | [Lost City](https://www.lostcityshard.com/)                         |          :gb:          |
-| [MidkemiaUO](https://www.midkemiauo.com/cs/)                               |          :gb:          |
+| [MidkemiaUO](https://www.midkemiauo.com/cs/)                        |          :gb:          |
 | [Mysterious World](http://www.mw-shard.pl/)                         |        :poland:        |
 | [Mystic](https://mystic.com.br/)                                    |        :brazil:        |
 | [Mystical Unicorn](https://mu2ndcoming.wixsite.com/mysticalunicorn) |          :gb:          |
 | [MythicUO](https://mythic-uo.com/)                                  |          :gb:          |
 | [Nebula](https://nebula.web.tr/)                                    |          :tr:          |
+| [Nelderim Aderthand](https://nelderim.pl/)                          |        :poland:        |
 | [New Chance](https://newchance.forumactif.com/)                     |          :fr:          |
 | [NightUO](https://nightuo.gen.tr/)                                  |          :tr:          |
 | [NoTramAoS](http://notramaos.com)                                   |          :gb:          |
 | [Obsidian](https://dxgaming.com/obsidian/)                          |          :gb:          |
 | [Old Paradise](https://oldp.net)                                    |          :ru:          |
 | [Overdrive](https://uooverdrive.com/)                               |          :gb:          |
-| [Pandora UO](https://www.pandorauo.com/)                         |          :gb:          |
+| [Pandora UO](https://www.pandorauo.com/)                            |          :gb:          |
+| [Paragon UO](https://paragonuo.boards.net/)                         |          :gb:          |
 | [Paths of Virtue](https://uorealms.com/games/paths-of-virtue/)      |          :gb:          |
 | [Pergon](https://welt-pergon.de/wiki/doku.php/start)                |          :de:          |
 | [Quests and Legends UO](http://www.questsandlegends.com/)           |          :gb:          |
 | [Raven Moon](https://uoravenmoon.wixsite.com/website)               |          :gb:          |
 | [Requiem](https://islesofaeolia.com/wikiRequiem/doku.php)           |          :gb:          |
 | [Reverence](https://www.uoreverence.com)                            |          :gb:          |
-| [Saga's UO](https://uoaddicts.com/servers/uo-sagas)                |          :gb:          |
+| [Saga's UO](https://uoaddicts.com/servers/uo-sagas)                 |          :gb:          |
 | [Strange-Earth](https://strange-earth.com/)                         |          :gb:          |
 | [Sylvan Heart](http://www.sylvandreams.co.uk/)                      |          :gb:          |
 | [The Crossroads](https://www.uocrossroads.net/)                     |          :gb:          |
+| [The Forsaken Planes](https://the-forsaken-planes.weebly.com/)      |          :gb:          |
 | [The Forbidden Lands](https://theforbiddenlandsuo.weebly.com)       |          :gb:          |
-| [The Last Kingdom](https://lastkingdom.cz/en/)                       |          :gb:          |
+| [The Last Kingdom](https://lastkingdom.cz/en/)                      |          :gb:          |
 | [The Miracle](https://themiraclegdr.com/)                           |          :it:          |
 | [Thrones of Destiny](https://thronesofdestiny.com/)                 |          :gb:          |
 | [Tides of Power](https://uotides.com/)                              |          :gb:          |
@@ -63,22 +71,23 @@
 | [UO Cataclysm](http://www.cataclysmuo.com)                          |          :gb:          |
 | [UO Demise](https://www.uogdemise.com/)                             |          :gb:          |
 | [UO Dreams](http://www.uodreams.com)                                |       :gb: :it:        |
-| [UO Elemental](https://uoelemental.com/)                             |          :gb:          |
+| [UO Elemental](https://uoelemental.com/)                            |          :gb:          |
 | [UO Enigma](https://wiki.uo-enigma.com)                             |          :gb:          |
 | [UO Eventine](https://uoeventine.net/)                              |          :gb:          |
 | [UO Evolution](https://uoevolution.com)                             |          :gb:          |
 | [UO Expanse](https://www.uoexpanse.com/)                            |          :gb:          |
 | [UO Forever](https://uoforever.com)                                 |          :gb:          |
 | [UO Heritage](https://trueuo.com/)                                  |          :gb:          |
-| [UO Immortal](https://www.uoimmortal.com/)                            |          :gb:          |
+| [UO Immortal](https://www.uoimmortal.com/)                          |          :gb:          |
 | [UO Lost Lands](https://uolostlands.com)                            |          :gb:          |
 | [UO Outlands](https://uooutlands.com)                               |          :gb:          |
 | [UO Phoenix](https://uo-phoenix.com)                                |          :gb:          |
 | [UO Revealed](http://uorevealed.com/)                               |          :gb:          |
-| [UO Roleplay](https://www.uoroleplay.com/)                            |          :gb:          |
+| [UO Roleplay](https://www.uoroleplay.com/)                          |          :gb:          |
 | [UO Second Age](https://www.uosecondage.com)                        |          :gb:          |
 | [UO Sigena](https://www.uosigena.de/home/index.php)                 |          :de:          |
 | [UO Soul](https://ultima-online.at.ua)                              |          :ru:          |
+| [UO:Renaissance](http://www.uorenn.com)                             |          :gb:          |
 | [UO Succession](https://www.uosuccession.com)                       |          :gb:          |
 | [UO Traditions](http://www.uotraditions.com/)                       |          :gb:          |
 | [UOGamers](https://uogamers.com/)                                   |          :gb:          |
