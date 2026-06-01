@@ -25,7 +25,6 @@
 | [Forgotten World](https://fwuo.ru/)                                 |          :ru:          |
 | [Grimm's World](https://jdgeorge2014.wixsite.com/grimmsworld)       |          :gb:          |
 | [Haven Reborn](https://havenreborn.com/)                            |          :gb:          |
-| [HellFire Evolution](https://hfshard.com.br/)                       |        :brazil:        |
 | [Immortal Realms UO](https://immortalrealmsuo.weebly.com/)          |          :gb:          |
 | [In Danger Of Collapsing](https://www.mondains.com/)                |          :gb:          |
 | [In Mani Ylem](https://www.youtube.com/post/Ugkx_mxjSduqRS0EbiSM2jT77jG3sLkJpn1_)                                   |          :gb:          |
@@ -98,7 +97,6 @@
 | [UOSupremacy](https://www.iogn.it/uosupremacy)                      |          :it:          |
 | [Vesper Tales](https://www.vespertales.de)                          |          :de:          |
 | [Vetus Mundus](https://vetus-mundus.de/)                            |       :gb: :de:        |
-| [Whispering Pines](http://www.wpshard.com)                          |          :gb:          |
 | [White Tiger](https://white-tiger.rpg-board.net/)                   |          :gb:          |
 | [World of UO](https://www.worldofuo.com)                            |          :tr:          |
 | [Zulu Hotel Italia](https://www.zhi.it/portalnew/)                  |          :it:          |
