@@ -10,14 +10,14 @@
 | [Banes World](https://banes.world)                                  |          :gb:          |
 | [Beyond Sosaria](https://beyondsosaria.com/)                        |          :gb:          |
 | [Calypso](http://calypso.likesyou.org/portal/)                      |          :gb:          |
-| [Cataclysm Infinity](http://cuoinfinity.com)                        |          :gb:          |
+| [Cataclysm Infinity](https://www.cuoinfinity.com/)                  |          :gb:          |
 | [Confictura](https://confictura.net/)                               |          :gb:          |
 | [Dark Academia](http://uoserver.site.nfoservers.com)                |          :gb:          |
 | [Dark Forest](http://darkforestfreeshard.weebly.com/)               |          :gb:          |
 | [Dragon World](http://www.drw.ru/en/)                               |       :gb: :ru:        |
-| [Dreams World](https://game4world.com)                              |       :gb: :ru:        |
+| [Dreams World](https://game4world.com/en)                           |       :gb: :ru:        |
 | [Excelsior](http://www.uoex.net/)                                   |          :gb:          |
-| [Endor Revived](https://www.endor-revived.com/)                     |          :gb:          |
+| [Endor Revived](https://www.endor-revived.com/cs/)                  |          :gb:          |
 | [Faerun's Legends](https://www.faerunslegends.net)                  |          :it:          |
 | [Farham Citadel](https://uorealms.com/games/farham-citadel/)        |          :gb:          |
 | [EvoRealmUO](https://www.evorealmuo.com/)                           |          :gb:          |
