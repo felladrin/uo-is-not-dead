@@ -12,7 +12,6 @@
 | [Calypso](http://calypso.likesyou.org/portal/)                      |          :gb:          |
 | [Cataclysm Infinity](http://cuoinfinity.com)                        |          :gb:          |
 | [Confictura](https://confictura.net/)                               |          :gb:          |
-| [Cryptonite](https://uocryptonite.com/)                             |          :fr:          |
 | [Dark Academia](http://uoserver.site.nfoservers.com)                |          :gb:          |
 | [Dark Forest](http://darkforestfreeshard.weebly.com/)               |          :gb:          |
 | [Dragon World](http://www.drw.ru/en/)                               |       :gb: :ru:        |
@@ -71,7 +70,6 @@
 | [UO Cataclysm](http://www.cataclysmuo.com)                          |          :gb:          |
 | [UO Demise](https://www.uogdemise.com/)                             |          :gb:          |
 | [UO Dreams](http://www.uodreams.com)                                |       :gb: :it:        |
-| [UO Elemental](https://uoelemental.com/)                            |          :gb:          |
 | [UO Enigma](https://wiki.uo-enigma.com)                             |          :gb:          |
 | [UO Eventine](https://uoeventine.net/)                              |          :gb:          |
 | [UO Evolution](https://uoevolution.com)                             |          :gb:          |
@@ -106,7 +104,6 @@
 
 - [ClassicUO Server List](https://play.classicuo.org/)
 - [UOServers](https://www.uoservers.com)
-- [ServUO Shard Portal](https://www.servuo.dev/servers/)
 - [UO Portal](https://uoportal.com/)
 - [UOGateway](https://www.uogateway.com/)
 - [UO Addicts](https://uoaddicts.com/servers)
