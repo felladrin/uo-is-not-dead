@@ -15,7 +15,6 @@
 | [Cataclysm Infinity](https://www.cuoinfinity.com/)                                   | :gb:                   |
 | [Confictura](https://confictura.net/)                                                | :gb:                   |
 | [CryptoUO](http://cryptouo.net)                                                      | :gb:                   |
-| [Dark Academia](http://uoserver.site.nfoservers.com)                                 | :gb:                   |
 | [Dark Forest](http://darkforestfreeshard.weebly.com/)                                | :gb:                   |
 | [Dragon World](http://www.drw.ru/en/)                                                | :gb: :ru:              |
 | [Dreams World](https://game4world.com/en)                                            | :gb: :ru:              |
@@ -61,7 +60,6 @@
 | [The Crossroads](https://www.uocrossroads.net/)                                      | :gb:                   |
 | [The Forbidden Lands](https://theforbiddenlandsuo.weebly.com)                        | :gb:                   |
 | [The Forsaken Planes](https://the-forsaken-planes.weebly.com/)                       | :gb:                   |
-| [The Last Kingdom](https://lastkingdom.cz/en/)                                       | :gb:                   |
 | [The Miracle](https://themiraclegdr.com/)                                            | :it:                   |
 | [Thrones of Destiny](https://thronesofdestiny.com/)                                  | :gb:                   |
 | [Tides of Power](https://uotides.com/)                                               | :gb:                   |
@@ -96,7 +94,7 @@
 | [UO Sigena](https://www.uosigena.de/home/index.php)                                  | :de:                   |
 | [UO Soul](https://ultima-online.at.ua)                                               | :ru:                   |
 | [UO Succession](https://www.uosuccession.com)                                        | :gb:                   |
-| [UOSupremacy](https://www.iogn.it/uosupremacy)                                       | :it:                   |
+| [UOSupremacy](https://www.iogn.it/uosupremacy/)                                      | :it:                   |
 | [UO Traditions](http://www.uotraditions.com/)                                        | :gb:                   |
 | [Vesper Tales](https://www.vespertales.de)                                           | :de:                   |
 | [Vetus Mundus](https://vetus-mundus.de/)                                             | :gb: :de:              |
@@ -116,7 +114,7 @@
 - [Top100Zone](https://www.top100zone.com/ultima-online)
 - [Top Game Sites](https://www.topgamesites.net/ultimaonline)
 - [TOPG](https://topg.org/ultima-private-servers/)
-- [RPG Paradize](https://www.rpg-paradize.com/top-site-Ultima+Online-6)
+- [RPG Paradize](https://rpg-paradize.com/top-site-ultima-online-6)
 - [TOP RPG](https://top.roleplay.ru/r10p1.html)
 - [Arena Top 100](https://www.arena-top100.com/ultima-private-servers/)
 - [Top100Arena](https://www.top100arena.com/category/ultima-online)
