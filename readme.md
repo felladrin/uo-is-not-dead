@@ -78,7 +78,7 @@
 | [UO Expanse](https://www.uoexpanse.com/)                                             | :gb:                   |
 | [UO Forever](https://uoforever.com)                                                  | :gb:                   |
 | [UOGamers](https://uogamers.com/)                                                    | :gb:                   |
-| [UoGames](https://uogames.ru/)                                                       | :ru:                   |
+| [UoGames](https://uogames.org/)                                                      | :ru:                   |
 | [UO Immortal](https://www.uoimmortal.com/)                                           | :gb:                   |
 | [UOItalia Reborn](https://www.uoitalia.net/en/)                                      | :gb: :it:              |
 | [UO Lost Lands](https://uolostlands.com)                                             | :gb:                   |
