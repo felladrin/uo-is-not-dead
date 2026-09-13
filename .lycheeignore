@@ -5,3 +5,5 @@ uogames.ru
 top100zone.com
 # Alive, but Cloudflare returns 522 (origin timeout) to GitHub Actions runners while the site loads fine elsewhere (verified 2026-09-13)
 uogdemise.com
+# Alive, but requests from GitHub Actions runners time out while the site loads fine elsewhere (verified 2026-09-13)
+www.iogn.it
