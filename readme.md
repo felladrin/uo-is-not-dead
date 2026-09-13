@@ -23,7 +23,7 @@
 | [Excelsior](http://www.uoex.net/)                                                    | :gb:                   |
 | [Faerun's Legends](https://www.faerunslegends.net)                                   | :it:                   |
 | [Farham Citadel](https://uorealms.com/games/farham-citadel/)                         | :gb:                   |
-| [Forgotten World](https://fwuo.ru/)                                                  | :ru:                   |
+| [Forgotten World](https://fwuo.net/ru)                                               | :ru:                   |
 | [Grimm's World](https://jdgeorge2014.wixsite.com/grimmsworld)                        | :gb:                   |
 | [Haven Reborn](https://havenreborn.com/)                                             | :gb:                   |
 | [Immortal Realms UO](https://immortalrealmsuo.weebly.com/)                           | :gb:                   |
@@ -37,7 +37,6 @@
 | [Mysterious World](http://www.mw-shard.pl/)                                          | :poland:               |
 | [Mystic](https://mystic.com.br/)                                                     | :brazil:               |
 | [Mystical Unicorn](https://mu2ndcoming.wixsite.com/mysticalunicorn)                  | :gb:                   |
-| [MythicUO](https://mythic-uo.com/)                                                   | :gb:                   |
 | [Nebula](https://nebula.web.tr/)                                                     | :tr:                   |
 | [Nelderim Aderthand](https://nelderim.pl/)                                           | :poland:               |
 | [New Chance](https://newchance.forumactif.com/)                                      | :fr:                   |
@@ -80,7 +79,6 @@
 | [UO Forever](https://uoforever.com)                                                  | :gb:                   |
 | [UOGamers](https://uogamers.com/)                                                    | :gb:                   |
 | [UoGames](https://uogames.ru/)                                                       | :ru:                   |
-| [UO Heritage](https://trueuo.com/)                                                   | :gb:                   |
 | [UO Immortal](https://www.uoimmortal.com/)                                           | :gb:                   |
 | [UOItalia Reborn](https://www.uoitalia.net/en/)                                      | :gb: :it:              |
 | [UO Lost Lands](https://uolostlands.com)                                             | :gb:                   |

@@ -4,9 +4,13 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 12 * * 6'
+permissions:
+  contents: read
+  issues: write
 jobs:
   validate:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
       - name: Check links
@@ -15,7 +19,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       - name: Create an issue if needed
-        if: steps.lychee.outputs.exit_code != 0
+        if: ${{ failure() && steps.lychee.outputs.exit_code != 0 }}
         uses: peter-evans/create-issue-from-file@v6
         with:
           title: Link Checker Report
