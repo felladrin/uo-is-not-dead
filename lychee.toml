@@ -1,0 +1,10 @@
+# A red run should mean a link is actually down, not that the checker was blocked
+# or hit a slow response. See #158.
+
+# 403/429: bot-blocking by Cloudflare & co; the shard behind it is up.
+accept = ["200..=299", 403, 429]
+
+# Hobby-run servers are often slow from datacenter networks.
+timeout = 45
+max_retries = 3
+retry_wait_time = 5
