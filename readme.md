@@ -9,7 +9,7 @@ An everchanging list of Ultima Online freeshards: free, player-run servers that 
 | [Age of Sosaria](https://ageofsosaria.com)                                           | :gb:                   |
 | [Akara Essex](https://akaraessex.blogspot.com/)                                      | :gb:                   |
 | [AlternateUO](https://alternateuo.com)                                               | :gb:                   |
-| [Andaria](https://andaria.cz/)                                                       | :cz:                   |
+| [Andaria](https://andaria.cz/)                                                       | :czech_republic:       |
 | [Angel Island](https://game-master.net/)                                             | :gb:                   |
 | [Ankh's Legacy](https://ankhslegacyuo.com/)                                          | :gb:                   |
 | [Arth](https://arthfreeserver.com/)                                                  | :gb:                   |
@@ -24,7 +24,7 @@ An everchanging list of Ultima Online freeshards: free, player-run servers that 
 | [CrewUO](https://crewuo.com/)                                                        | :gb:                   |
 | [CryptoUO](http://cryptouo.net)                                                      | :gb:                   |
 | [Dark Forest](http://darkforestfreeshard.weebly.com/)                                | :gb:                   |
-| [Dark Paradise](https://www.darkparadise.eu/)                                        | :cz:                   |
+| [Dark Paradise](https://www.darkparadise.eu/)                                        | :czech_republic:       |
 | [Demons And Wizards](https://www.demonsandwizards.net/)                              | :it:                   |
 | [Dragon World](http://www.drw.ru/en/)                                                | :gb: :ru:              |
 | [Dreams World](https://game4world.com/en)                                            | :gb: :ru:              |
@@ -45,7 +45,7 @@ An everchanging list of Ultima Online freeshards: free, player-run servers that 
 | [In Mani Ylem](https://www.youtube.com/post/Ugkx_mxjSduqRS0EbiSM2jT77jG3sLkJpn1_)    | :gb:                   |
 | [Insane UO](https://insaneuo.com)                                                    | :gb:                   |
 | [Invicta UO](https://invictauo.com/)                                                 | :gb:                   |
-| [Kelevar](https://www.kelevar.cz)                                                    | :cz:                   |
+| [Kelevar](https://www.kelevar.cz)                                                    | :czech_republic:       |
 | [Legend of Terra](https://legendofterra.es)                                          | :es:                   |
 | [Legends of Sosaria](https://www.legendsofsosaria.com)                               | :gb:                   |
 | [Les Ariaristes](https://www.lesariaristes.fr)                                       | :fr:                   |
@@ -143,7 +143,7 @@ An everchanging list of Ultima Online freeshards: free, player-run servers that 
 | [World of UO](https://www.worldofuo.com)                                             | :tr:                   |
 | [Zulu Hotel Italia](https://www.zhi.it/portalnew/)                                   | :it:                   |
 | [ZuluHotel UA](https://zuluhotel.net.ua)                                             | :ru:                   |
-| [光光創世紀 Online](https://uo-tw.vercel.app)                                        | :tw:                   |
+| [光光創世紀 Online](https://uo-tw.vercel.app)                                        | :taiwan:               |
 
 ### Reading the list
 
