@@ -1,0 +1,46 @@
+name: Add a shard
+description: Suggest a freeshard for the list
+labels:
+  - shard request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping grow the list! A shard qualifies when it is up and playable and its site is reachable.
+  - type: input
+    id: name
+    attributes:
+      label: Shard name
+      placeholder: Example UO
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Shard website
+      placeholder: https://example.com
+      description: Link the final destination if the site redirects.
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: Main language
+      options:
+        - English
+        - Spanish
+        - Italian
+        - German
+        - French
+        - Polish
+        - Portuguese
+        - Russian
+        - Turkish
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?
+      description: Ruleset, era, client, or anything the maintainers should know.
