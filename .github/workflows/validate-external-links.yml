@@ -2,6 +2,10 @@ name: External Links Validator
 on:
   repository_dispatch:
   workflow_dispatch:
+  pull_request:
+    paths:
+      - readme.md
+      - .github/workflows/validate-external-links.yml
   schedule:
     - cron: '0 12 * * 6'
 permissions:
@@ -19,7 +23,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       - name: Create an issue if needed
-        if: ${{ failure() && steps.lychee.outputs.exit_code != 0 }}
+        if: ${{ github.event_name != 'pull_request' && failure() && steps.lychee.outputs.exit_code != 0 }}
         uses: peter-evans/create-issue-from-file@v6
         with:
           title: Link Checker Report
