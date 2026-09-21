@@ -1,0 +1,18 @@
+name: Report a dead shard
+description: Tell us a listed shard is offline or its link is broken
+labels:
+  - dead shard
+body:
+  - type: input
+    id: shard
+    attributes:
+      label: Shard name
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What do you see?
+      description: Server offline, site down, wrong link? Screenshots help.
+    validations:
+      required: true
