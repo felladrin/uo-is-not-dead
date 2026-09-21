@@ -8,3 +8,5 @@ www.iogn.it
 newhopeuo.com
 # Alive, but requests from GitHub Actions runners time out while the site loads fine elsewhere (verified 2026-09-21)
 playuo.ru
+# Alive, but intermittently returns 522 (origin timeout) to GitHub Actions runners while the site loads fine elsewhere (verified 2026-09-21)
+uogames.org
