@@ -84,7 +84,7 @@
 | [UO Lost Lands](https://uolostlands.com)                                             | :gb:                   |
 | [UO Outlands](https://uooutlands.com)                                                | :gb:                   |
 | [UO Phoenix](https://uo-phoenix.com)                                                 | :gb:                   |
-| [UO:Renaissance](http://www.uorenn.com)                                              | :gb:                   |
+| [UO:Renaissance](https://www.uorenn.com/wiki/index.php/Main_Page)                    | :gb:                   |
 | [UO Revealed](http://uorevealed.com/)                                                | :gb:                   |
 | [UO Roleplay](https://www.uoroleplay.com/)                                           | :gb:                   |
 | [UORPG](https://uorpg.net/en/news)                                                   | :gb: :ru:              |
