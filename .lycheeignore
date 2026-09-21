@@ -4,3 +4,7 @@ top100zone.com
 uogdemise.com
 # Alive, but requests from GitHub Actions runners time out while the site loads fine elsewhere (verified 2026-09-13)
 www.iogn.it
+# Alive, but GitHub Actions runners get "connection reset by peer" while the site loads fine elsewhere (verified 2026-09-21)
+newhopeuo.com
+# Alive, but requests from GitHub Actions runners time out while the site loads fine elsewhere (verified 2026-09-21)
+playuo.ru
