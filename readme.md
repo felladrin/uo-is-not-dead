@@ -1,5 +1,15 @@
 # UO Is Not Dead!
 
+[![External Links Validator](https://github.com/felladrin/uo-is-not-dead/actions/workflows/validate-external-links.yml/badge.svg)](https://github.com/felladrin/uo-is-not-dead/actions/workflows/validate-external-links.yml)
+
+An everchanging list of Ultima Online freeshards: free, player-run servers that keep UO alive outside Electronic Arts' official shards.
+
+Reading the list: the `:globe_with_meridians:` column shows each shard's main language (`:gb:` means English). Rows are sorted alphabetically, ignoring spaces and punctuation.
+
+Want to play? UO needs a game client. [ClassicUO](https://github.com/ClassicUO/ClassicUO) is a popular open-source one; after installing it, follow the install instructions on the shard's own site.
+
+Want your shard listed? Use the [Add a shard](https://github.com/felladrin/uo-is-not-dead/issues/new?template=add-a-shard.yml) form, or open a PR adding one row. More in [contributing.md](contributing.md).
+
 | Shard Name                                                                           | :globe_with_meridians: |
 | ------------------------------------------------------------------------------------ | ---------------------- |
 | [ABC Reborn](https://abc-uo.com)                                                     | :gb:                   |
