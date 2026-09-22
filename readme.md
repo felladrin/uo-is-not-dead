@@ -107,7 +107,6 @@ An everchanging list of Ultima Online freeshards: free, player-run servers that 
 | [UO Enigma](https://wiki.uo-enigma.com)                                              | :gb:                   |
 | [UO Eventine](https://uoeventine.net/)                                               | :gb:                   |
 | [UO Evolution](https://uoevolution.com)                                              | :gb:                   |
-| [UO Expanse](https://www.uoexpanse.com/)                                             | :gb:                   |
 | [UO Forever](https://uoforever.com)                                                  | :gb:                   |
 | [UOGamers](https://uogamers.com/)                                                    | :gb:                   |
 | [UoGames](https://uogames.org/)                                                      | :ru:                   |
@@ -151,7 +150,7 @@ The :globe_with_meridians: column shows each shard's main language (:gb: means E
 
 ### Want to play?
 
-UO needs a game client. [ClassicUO](https://www.classicuo.eu/) is a popular open-source one; after installing it, follow the install instructions on the shard's own site.
+UO needs a game client. [ClassicUO](https://classicuo.org/) is a popular open-source one; after installing it, follow the install instructions on the shard's own site.
 
 ### Want your shard listed?
 
