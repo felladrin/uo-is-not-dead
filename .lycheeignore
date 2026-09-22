@@ -10,3 +10,7 @@ newhopeuo.com
 playuo.ru
 # Alive, but intermittently returns 522 (origin timeout) to GitHub Actions runners while the site loads fine elsewhere (verified 2026-09-21)
 uogames.org
+# Alive, but GitHub Actions runners get connection failures while the site loads fine elsewhere (verified 2026-09-22)
+alternateuo.com
+# Alive, but requests from GitHub Actions runners time out while the site loads fine elsewhere (verified 2026-09-22)
+www.kelevar.cz
