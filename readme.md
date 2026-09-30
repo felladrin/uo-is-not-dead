@@ -8,6 +8,8 @@ An everchanging list of Ultima Online freeshards: free, player-run servers that 
 | [Age of Britannia](https://ageofbritannia.wordpress.com/)                            | :gb:                   |
 | [Age of Sosaria](https://ageofsosaria.com)                                           | :gb:                   |
 | [Akara Essex](https://akaraessex.blogspot.com/)                                      | :gb:                   |
+| [Alasiya](http://uo.alasiya.net/)                                                    | :gb:                   |
+| [Alathair](https://alathair.de/)                                                     | :de:                   |
 | [AlternateUO](https://alternateuo.com)                                               | :gb:                   |
 | [Andaria](https://andaria.cz/)                                                       | :czech_republic:       |
 | [Angel Island](https://game-master.net/)                                             | :gb:                   |
@@ -28,6 +30,7 @@ An everchanging list of Ultima Online freeshards: free, player-run servers that 
 | [Demons And Wizards](https://www.demonsandwizards.net/)                              | :it:                   |
 | [Dragon World](http://www.drw.ru/en/)                                                | :gb: :ru:              |
 | [Dreams World](https://game4world.com/en)                                            | :gb: :ru:              |
+| [Dream World](https://ultima.od.ua/)                                                 | :gb: :ru:              |
 | [Endor Revived](https://www.endor-revived.com/cs/)                                   | :gb:                   |
 | [EvoRealmUO](https://www.evorealmuo.com/)                                            | :gb:                   |
 | [Excelsior](http://www.uoex.net/)                                                    | :gb:                   |
@@ -39,18 +42,21 @@ An everchanging list of Ultima Online freeshards: free, player-run servers that 
 | [Grimm's World](https://jdgeorge2014.wixsite.com/grimmsworld)                        | :gb:                   |
 | [Haven Reborn](https://havenreborn.com/)                                             | :gb:                   |
 | [HellFire Shard](https://hfshard.com.br/)                                            | :brazil:               |
+| [Imagine Nation Risen](http://in-risen.com/)                                         | :gb:                   |
 | [Immortal Realms UO](https://immortalrealmsuo.weebly.com/)                           | :gb:                   |
 | [Imperial Shard](https://imperialshard.com.br/)                                      | :brazil:               |
 | [In Danger Of Collapsing](https://www.mondains.com/)                                 | :gb:                   |
 | [In Mani Ylem](https://www.youtube.com/post/Ugkx_mxjSduqRS0EbiSM2jT77jG3sLkJpn1_)    | :gb:                   |
 | [Insane UO](https://insaneuo.com)                                                    | :gb:                   |
 | [Invicta UO](https://invictauo.com/)                                                 | :gb:                   |
+| [Kassandra](http://www.darkness-once-forsaken.com/wiki)                              | :gb:                   |
 | [Kelevar](https://www.kelevar.cz)                                                    | :czech_republic:       |
 | [Legend of Terra](https://legendofterra.es)                                          | :es:                   |
 | [Legends of Sosaria](https://www.legendsofsosaria.com)                               | :gb:                   |
 | [Les Ariaristes](https://www.lesariaristes.fr)                                       | :fr:                   |
 | [Living World](https://livingworld.edgebuildlabs.tech/)                              | :gb: :brazil: :es:     |
 | [Lost City](https://www.lostcityshard.com/)                                          | :gb:                   |
+| [Middle Earth](http://uo.middle-earth.ru/)                                           | :ru:                   |
 | [MidkemiaUO](https://www.midkemiauo.com/cs/)                                         | :gb:                   |
 | [Mysterious World](http://www.mw-shard.pl/)                                          | :poland:               |
 | [Mystic](https://mystic.com.br/)                                                     | :brazil:               |
@@ -64,7 +70,9 @@ An everchanging list of Ultima Online freeshards: free, player-run servers that 
 | [NoTramAoS](http://notramaos.com)                                                    | :gb:                   |
 | [Nova Era](https://www.novaerashard.com.br/)                                         | :brazil:               |
 | [Obsidian](https://dxgaming.com/obsidian/)                                           | :gb:                   |
+| [Old Antares](http://oldantares.okis.ru/)                                            | :ru:                   |
 | [Old Paradise](https://oldp.net)                                                     | :ru:                   |
+| [Olmer](http://olmer.su/)                                                            | :gb: :ru:              |
 | [Overdrive](https://uooverdrive.com/)                                                | :gb:                   |
 | [Pandora UO](https://www.pandorauo.com/)                                             | :gb:                   |
 | [Pangaea - The Edge of the World](https://pangaea-world.dk/)                         | :gb:                   |
@@ -80,10 +88,12 @@ An everchanging list of Ultima Online freeshards: free, player-run servers that 
 | [Reverence](https://www.uoreverence.com)                                             | :gb:                   |
 | [Saga's UO](https://uoaddicts.com/servers/uo-sagas)                                  | :gb:                   |
 | [Strange-Earth](https://strange-earth.com/)                                          | :gb:                   |
+| [SurvivalUO](http://www.survivaluo.com/)                                             | :gb:                   |
 | [Sylvan Heart](http://www.sylvandreams.co.uk/)                                       | :gb:                   |
 | [Terra Nova](https://terra-nova.online/)                                             | :de:                   |
 | [The Crossroads](https://www.uocrossroads.net/)                                      | :gb:                   |
 | [The Forbidden Lands](https://theforbiddenlandsuo.weebly.com)                        | :gb:                   |
+| [The Forging](https://theforging.net)                                                | :gb:                   |
 | [The Forsaken Planes](https://the-forsaken-planes.weebly.com/)                       | :gb:                   |
 | [The Miracle](https://themiraclegdr.com/)                                            | :it:                   |
 | [Thrones of Destiny](https://thronesofdestiny.com/)                                  | :gb:                   |
@@ -109,6 +119,7 @@ An everchanging list of Ultima Online freeshards: free, player-run servers that 
 | [UO Evolution](https://uoevolution.com)                                              | :gb:                   |
 | [UO Forever](https://uoforever.com)                                                  | :gb:                   |
 | [UOGamers](https://uogamers.com/)                                                    | :gb:                   |
+| [UOGamers Hybrid](http://www.uohybrid.com/)                                          | :gb:                   |
 | [UoGames](https://uogames.org/)                                                      | :ru:                   |
 | [UO Horizon](https://www.uohorizon.com)                                              | :gb:                   |
 | [UO Immortal](https://www.uoimmortal.com/)                                           | :gb:                   |
@@ -116,6 +127,7 @@ An everchanging list of Ultima Online freeshards: free, player-run servers that 
 | [UOItalia Reborn](https://www.uoitalia.net/en/)                                      | :gb: :it:              |
 | [UO Last Hera](https://www.uolasthera.com/)                                          | :it:                   |
 | [UO Lost Lands](https://uolostlands.com)                                             | :gb:                   |
+| [UO New Renaissance](http://newrenaissanceuo.com/)                                   | :gb:                   |
 | [UO Oasis](https://uo-oasis.com)                                                     | :gb:                   |
 | [UO Outlands](https://uooutlands.com)                                                | :gb:                   |
 | [UO Phoenix](https://uo-phoenix.com)                                                 | :gb:                   |
@@ -130,8 +142,10 @@ An everchanging list of Ultima Online freeshards: free, player-run servers that 
 | [UO Sigena](https://www.uosigena.de/home/index.php)                                  | :de:                   |
 | [UO Soul](https://ultima-online.at.ua)                                               | :ru:                   |
 | [UO Succession](https://www.uosuccession.com)                                        | :gb:                   |
+| [UOSunrise](http://uosunrise.com/)                                                   | :gb:                   |
 | [UOSupremacy](https://www.iogn.it/uosupremacy/)                                      | :it:                   |
 | [UO Traditions](http://www.uotraditions.com/)                                        | :gb:                   |
+| [UO ZombieLand](http://zombieland.traumtal.com/)                                     | :gb: :de:              |
 | [Valhallalost](https://valhallalost.com/)                                            | :gb:                   |
 | [Vesper Tales](https://www.vespertales.de)                                           | :de:                   |
 | [Vetus Mundus](https://vetus-mundus.de/)                                             | :gb: :de:              |
