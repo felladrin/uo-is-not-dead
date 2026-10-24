@@ -18,3 +18,5 @@ www.kelevar.cz
 newrenaissanceuo.com
 # Alive, but requests from GitHub Actions runners time out while the site loads fine elsewhere (verified 2026-10-03)
 welt-pergon.de
+# Alive (Wayback 200 on 2026-10-10, active listings in search indexes), but the origin returns 502 Bad Gateway to datacenter fetchers, GitHub Actions runners included (verified 2026-10-24)
+www.top100arena.com
