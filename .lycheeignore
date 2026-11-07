@@ -1,5 +1,3 @@
-# Alive, but returns 503 to datacenter IPs (verified reachable via third-party fetch on 2026-09-13)
-top100zone.com
 # Alive, but Cloudflare returns 522 (origin timeout) to GitHub Actions runners while the site loads fine elsewhere (verified 2026-09-13)
 uogdemise.com
 # Alive, but requests from GitHub Actions runners time out while the site loads fine elsewhere (verified 2026-09-13)
