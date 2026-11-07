@@ -177,7 +177,6 @@ Use the [Add a shard](https://github.com/felladrin/uo-is-not-dead/issues/new?tem
 - [UOGateway](https://www.uogateway.com/)
 - [UO Addicts](https://uoaddicts.com/servers)
 - [XtremeTop100](https://www.xtremetop100.com/ultima-online)
-- [Top100Zone](https://www.top100zone.com/ultima-online)
 - [Top Game Sites](https://www.topgamesites.net/ultimaonline)
 - [TOPG](https://topg.org/ultima-private-servers/)
 - [RPG Paradize](https://rpg-paradize.com/top-site-ultima-online-6)
