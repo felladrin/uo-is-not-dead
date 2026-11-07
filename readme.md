@@ -29,7 +29,6 @@ An everchanging list of Ultima Online freeshards: free, player-run servers that 
 | [Dark Paradise](https://www.darkparadise.eu/)                                        | :czech_republic:       |
 | [Demons And Wizards](https://www.demonsandwizards.net/)                              | :it:                   |
 | [Dragon World](http://www.drw.ru/en/)                                                | :gb: :ru:              |
-| [Dreams World](https://game4world.com/en)                                            | :gb: :ru:              |
 | [Dream World](https://ultima.od.ua/)                                                 | :gb: :ru:              |
 | [Endor Revived](https://www.endor-revived.com/cs/)                                   | :gb:                   |
 | [EvoRealmUO](https://www.evorealmuo.com/)                                            | :gb:                   |
