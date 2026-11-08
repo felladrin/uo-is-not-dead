@@ -36,6 +36,9 @@ body:
         - Portuguese
         - Russian
         - Turkish
+        - Czech
+        - Latvian
+        - Chinese
         - Other
     validations:
       required: true
