@@ -8,6 +8,7 @@ An everchanging list of Ultima Online freeshards. The deliverable is the shard t
 - `docs/update-shard-list.md` — the full workflow for growing the shard table
 - `contributing.md` — human-facing rules; the table rules here mirror it
 - `.github/workflows/validate-external-links.yml` — lychee link check, weekly and on every PR touching `readme.md`
+- `.github/workflows/validate-table.yml` — runs the checks below in CI, on every push to `master` and every PR touching `readme.md`
 - `lychee.toml` / `.lycheeignore` — link-check config; `.lycheeignore` lists sites that block datacenter IPs
 
 ## Updating the shard list

@@ -1,0 +1,46 @@
+name: Table Validator
+# The rules agents.md states for the shard table (sort order, pipe alignment,
+# duplicate domains) were only checked by hand; this makes them a gate for
+# every PR and every push to master that touches the table.
+on:
+  push:
+    branches: master
+    paths:
+      - readme.md
+  pull_request:
+    paths:
+      - readme.md
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    env:
+      LC_ALL: C
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+      - name: Check sort order
+        run: |
+          sed -n '/^| \[/p' readme.md | sed 's/^| \[\([^]]*\)\](.*$/\1/' \
+            | tr -d '[:space:][:punct:]' | tr 'A-Z' 'a-z' | sort -c
+          echo "sort order OK"
+      - name: Check pipe alignment
+        run: |
+          python3 - <<'PY'
+          import unicodedata
+          ws = {sum(2 if unicodedata.east_asian_width(c) in "WF" else 1 for c in l.rstrip())
+                for l in open("readme.md", encoding="utf-8") if l.startswith("| ")}
+          assert len(ws) == 1, f"rows disagree on display width: {sorted(ws)}"
+          print("aligned at display width", ws.pop())
+          PY
+      - name: Check duplicate domains
+        run: |
+          # uogamers.com and uorealms.com each legally host two listed shards
+          dups=$(sed -n 's/^| \[[^]]*\](https\?:\/\/\([^/)]*\).*/\1/p' readme.md \
+            | tr 'A-Z' 'a-z' | sed 's/^www\.//' | sort | uniq -d \
+            | grep -v -x -e uogamers.com -e uorealms.com || true)
+          if [ -n "$dups" ]; then
+            echo "unexpected duplicate domains:"; echo "$dups"; exit 1
+          fi
+          echo "no unexpected duplicate domains"
