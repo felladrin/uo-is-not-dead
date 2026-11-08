@@ -125,7 +125,6 @@ An everchanging list of Ultima Online freeshards: free, player-run servers that 
 | [UO Alive](https://uoalive.com)                                                      | :gb:                   |
 | [UO Apocalypse](https://uoapo.neocities.org/)                                        | :fr:                   |
 | [UOAscended](https://sites.google.com/view/ascendeduo/home)                          | :gb:                   |
-| [UO Cataclysm](http://www.cataclysmuo.com)                                           | :gb:                   |
 | [UO Cryptonite](https://uocryptonite.com/)                                           | :fr:                   |
 | [Uo Danger](https://uo-danger-web.vercel.app/)                                       | :gb:                   |
 | [UO Dante's Inferno](https://www.uodantesinferno.com/)                               | :gb:                   |
