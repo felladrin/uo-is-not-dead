@@ -5,6 +5,8 @@ on:
   pull_request:
     paths:
       - readme.md
+      - lychee.toml
+      - .lycheeignore
       - .github/workflows/validate-external-links.yml
   schedule:
     - cron: '0 12 * * 6'
