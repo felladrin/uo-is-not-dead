@@ -22,3 +22,7 @@ www.top100arena.com
 www.metropolisshard.com
 # Alive, but requests from GitHub Actions runners time out while the site loads fine elsewhere (verified 2026-11-08)
 uocryptonite.com
+# Alive (GitHub Pages site, content updated 2026-11-22), but the Pages TLS certificate is not provisioned for the custom domain, so https fails with a certificate mismatch for every visitor, not just CI (verified 2026-11-22)
+mysteriousage.com.br
+# Alive (browser client at waldmuehlen.com/wendelwelt returns 200, Discord active, shard news dated 2026-08-04), but Cloudflare returns 526 (invalid origin certificate) for every visitor, not just CI (verified 2026-11-22)
+wendelwelt.com
