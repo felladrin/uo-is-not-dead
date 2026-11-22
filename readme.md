@@ -4,7 +4,6 @@ An everchanging list of Ultima Online freeshards: free, player-run servers that 
 
 | Shard Name                                                                           | :globe_with_meridians: |
 | ------------------------------------------------------------------------------------ | ---------------------- |
-| [ABC Reborn](https://abc-uo.com)                                                     | :gb:                   |
 | [Age of Britannia](https://ageofbritannia.wordpress.com/)                            | :gb:                   |
 | [Age of Sosaria](https://ageofsosaria.com)                                           | :gb:                   |
 | [Akara Essex](https://akaraessex.blogspot.com/)                                      | :gb:                   |
@@ -16,7 +15,7 @@ An everchanging list of Ultima Online freeshards: free, player-run servers that 
 | [Ankh's Legacy](https://ankhslegacyuo.com/)                                          | :gb:                   |
 | [Arth](https://arthfreeserver.com/)                                                  | :gb:                   |
 | [Ashen Dawn](https://ashendawn.org/)                                                 | :gb:                   |
-| [ATLANTiS](https://www.atlantisuo.com)                                               | :tr:                   |
+| [ATLANTiS](https://atlantisuo.com)                                                   | :tr:                   |
 | [Auroria Shard](https://auroriashard.com.br/)                                        | :brazil:               |
 | [Banes World](https://banes.world)                                                   | :gb:                   |
 | [Beyond Sosaria](https://beyondsosaria.com/)                                         | :gb:                   |
