@@ -77,6 +77,7 @@ An everchanging list of Ultima Online freeshards: free, player-run servers that 
 | [NoTramAoS](http://notramaos.com)                                                    | :gb:                   |
 | [Nova Era](https://www.novaerashard.com.br/)                                         | :brazil:               |
 | [Obsidian](https://dxgaming.com/obsidian/)                                           | :gb:                   |
+| [Odyssey](https://www.odyes.com/)                                                    | :taiwan: :gb:          |
 | [Old Antares](https://oldantares.okis.ru/)                                           | :ru:                   |
 | [Old Paradise](https://oldp.net)                                                     | :ru:                   |
 | [Olmer](https://olmer.su/)                                                           | :gb: :ru:              |
