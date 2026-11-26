@@ -26,3 +26,5 @@ uocryptonite.com
 mysteriousage.com.br
 # Alive (browser client at waldmuehlen.com/wendelwelt returns 200, Discord active, shard news dated 2026-08-04), but Cloudflare returns 526 (invalid origin certificate) for every visitor, not just CI (verified 2026-11-22)
 wendelwelt.com
+# Alive (origin answers in ~400 ms, Wayback 200 on 2026-07-13), but the app returns 500 Internal Server Error to GitHub Actions runners and other datacenter fetchers (verified 2026-11-26)
+weasy.net
